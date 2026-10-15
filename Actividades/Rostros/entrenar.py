@@ -10,6 +10,9 @@ Pasos:
     final. Se parte por BLOQUES (no al azar) porque los frames consecutivos de
     un video son casi idénticos; un reparto aleatorio inflaría la precisión.
  3. Reentrena con TODAS las imágenes y guarda modelo_lbph.xml + etiquetas.txt.
+ 4. Comandos para probar el modelo:
+    python reconocer.py
+ 5. Numero de entreno 2 
 """
 import argparse
 import os
