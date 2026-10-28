@@ -1,0 +1,19 @@
+exp8: epocas=80 conv=1 batch=64 lr=0.001
+test accuracy=0.9286 test loss=0.2635 tiempo=530s params=158954
+
+              precision    recall  f1-score   support
+
+   americano      0.787     0.871     0.827      1888
+      basket      0.956     0.922     0.939      1712
+    beisball      0.914     0.873     0.893      1515
+       boxeo      0.963     0.972     0.967      1457
+    ciclismo      0.988     0.997     0.993      1545
+          f1      0.904     0.788     0.842      1019
+      futbol      0.986     0.906     0.944      1522
+        golf      0.882     0.955     0.917      1988
+    natacion      0.980     0.961     0.970      1009
+       tenis      0.996     1.000     0.998      1771
+
+    accuracy                          0.929     15426
+   macro avg      0.936     0.925     0.929     15426
+weighted avg      0.931     0.929     0.929     15426
