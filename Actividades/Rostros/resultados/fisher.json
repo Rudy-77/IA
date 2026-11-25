@@ -1,0 +1,104 @@
+{
+  "metodo": "fisher",
+  "exactitud": 0.9757142857142858,
+  "entrenamiento_s": 1524.0077050289997,
+  "prediccion_ms": 0.2987052214289828,
+  "modelo_mb": 2.361293,
+  "aciertos_por_persona": {
+    "cesare": 99,
+    "joseT": 97,
+    "kike": 99,
+    "liz": 99,
+    "pau": 98,
+    "tony": 91,
+    "vegueta": 100
+  },
+  "pruebas_por_persona": {
+    "cesare": 100,
+    "joseT": 100,
+    "kike": 100,
+    "liz": 100,
+    "pau": 100,
+    "tony": 100,
+    "vegueta": 100
+  },
+  "matriz": [
+    [
+      99,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      97,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      99,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      99,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      98,
+      0,
+      1
+    ],
+    [
+      2,
+      1,
+      0,
+      0,
+      5,
+      91,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      100
+    ]
+  ],
+  "personas": [
+    "cesare",
+    "joseT",
+    "kike",
+    "liz",
+    "pau",
+    "tony",
+    "vegueta"
+  ],
+  "n_train": 2800,
+  "n_test": 700,
+  "conf_aciertos_mediana": 56.490848603358764,
+  "conf_aciertos_p95": 125.722052237522,
+  "conf_errores_mediana": 144.63968648694254
+}

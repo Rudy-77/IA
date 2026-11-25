@@ -1,0 +1,3 @@
+# cv2.face (LBPH / Eigenfaces) solo existe en el paquete "contrib"
+opencv-contrib-python
+numpy

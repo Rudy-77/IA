@@ -26,7 +26,14 @@ with open(args.etiquetas, encoding="utf-8") as f:
     personas = [l.strip() for l in f if l.strip()]
 
 rec = cv.face.LBPHFaceRecognizer_create()
-rec.read(args.modelo)
+try:
+    rec.read(args.modelo)
+except cv.error:
+    raise SystemExit(
+        f"No se pudo leer {args.modelo}. Si pesa más de ~1 GB, OpenCV no puede "
+        "abrirlo. Reentrena con un modelo más chico:\n"
+        "    python entrenar.py --max-por-persona 400"
+    )
 
 NOMBRE_XML = "haarcascade_frontalface_alt2.xml"
 ruta_xml = os.path.join(os.path.dirname(os.path.abspath(__file__)), NOMBRE_XML)
@@ -44,10 +51,23 @@ cap = cv.VideoCapture(args.camara)
 if not cap.isOpened():
     raise SystemExit("No se pudo abrir la cámara.")
 
+print(f"Modelo cargado: {len(personas)} personas ({', '.join(personas)}). "
+      f"Umbral: {args.umbral:g}. ESC para salir.")
+
+motivo = "presionaste ESC"
+fallos = 0
 while True:
     ret, frame = cap.read()
     if not ret:
+        # La cámara de macOS puede tardar en arrancar: tolerar lecturas fallidas
+        if fallos < 60:
+            fallos += 1
+            cv.waitKey(50)
+            continue
+        motivo = ("no se pudieron leer frames de la cámara (revisa el permiso "
+                  "de cámara o prueba --camara 1)")
         break
+    fallos = 0
 
     gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
     for (x, y, w, h) in cascade.detectMultiScale(gray, 1.3, 5, minSize=(60, 60)):
@@ -71,3 +91,4 @@ while True:
 
 cap.release()
 cv.destroyAllWindows()
+print(f"Terminó porque: {motivo}")

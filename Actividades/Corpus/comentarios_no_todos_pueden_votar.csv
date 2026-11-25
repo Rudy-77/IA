@@ -1,0 +1,1501 @@
+id,usuario,comentario,categoria,sentimiento,puede_votar,cuenta_verificada,dias_cuenta,voto
+1,@user_0001,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,1,1,1006,a_favor_de_restringir
+2,@user_0002,sin filtro de voto gana quien tenga más bots #voto,a_favor_restriccion,positivo,1,0,423,a_favor_de_restringir
+3,@user_0003,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,1,sin_permiso
+4,@user_0004,está bien que no todos puedan votar así evitan bots.,a_favor_restriccion,positivo,1,1,990,a_favor_de_restringir
+5,@user_0005,staff y alumnos verificados sí pueden votar.,explica_regla,neutro,0,0,10,sin_permiso
+6,@user_0006,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,1,1,1065,abrir_voto_a_todos
+7,@user_0007,abrir el voto a todos haría más legítima la encuesta pls,en_contra_restriccion,negativo,1,1,491,abrir_voto_a_todos
+8,@user_0008,quitar la restricción ya??,en_contra_restriccion,negativo,0,0,14,sin_permiso
+9,@user_0009,la restricción de voto protege el resultado...,a_favor_restriccion,positivo,1,0,455,a_favor_de_restringir
+10,@user_0010,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,1,1,609,abrir_voto_a_todos
+11,@user_0011,staff y alumnos verificados sí pueden votar...,explica_regla,neutro,1,1,431,abstencion
+12,@user_0012,abrir el voto a todos haría más legítima la encuesta #encuesta,en_contra_restriccion,negativo,1,1,892,abrir_voto_a_todos
+13,@user_0013,intenté votar tres veces y me rechaza??,queja,negativo,0,0,11,sin_permiso
+14,@user_0014,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,8,sin_permiso
+15,@user_0015,aparece el mensaje: no tienes permiso para votar.,queja,negativo,0,0,1,sin_permiso
+16,@user_0016,si dejan votar a cualquiera manipulan la encuesta #voto,a_favor_restriccion,positivo,1,1,840,a_favor_de_restringir
+17,@user_0017,yo pago inscripción y no puedo votar absurdo...,en_contra_restriccion,negativo,1,0,785,abrir_voto_a_todos
+18,@user_0018,concuerdo: no todos deben poder votar aquí!,a_favor_restriccion,positivo,0,0,23,sin_permiso
+19,@user_0019,intenté votar tres veces y me rechaza #voto,queja,negativo,0,0,5,sin_permiso
+20,@user_0020,no es justo que no todos puedan votar,queja,negativo,0,0,17,sin_permiso
+21,@user_0021,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,685,a_favor_de_restringir
+22,@user_0022,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,1,1,518,abrir_voto_a_todos
+23,@user_0023,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,1,562,abrir_voto_a_todos
+24,@user_0024,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,1,1,857,abstencion
+25,@user_0025,staff y alumnos verificados sí pueden votar??,explica_regla,neutro,0,0,18,sin_permiso
+26,@user_0026,puedo recuperar el permiso de voto pls,neutro_pregunta,neutro,1,1,629,abrir_voto_a_todos
+27,@user_0027,todos los alumnos deberían poder votar.,en_contra_restriccion,negativo,1,0,344,abrir_voto_a_todos
+28,@user_0028,el botón de votar está gris qué significa.,neutro_pregunta,neutro,0,0,12,sin_permiso
+29,@user_0029,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,0,0,1,sin_permiso
+30,@user_0030,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,15,sin_permiso
+31,@user_0031,apoyo que solo voten cuentas verificadas.,a_favor_restriccion,positivo,1,1,12,abstencion
+32,@user_0032,excluir gente del voto es antidemocrático pls,en_contra_restriccion,negativo,1,1,1151,abrir_voto_a_todos
+33,@user_0033,si no todos pueden votar para qué preguntan.,en_contra_restriccion,negativo,0,0,14,sin_permiso
+34,@user_0034,esto silencia a los de nuevo ingreso??,en_contra_restriccion,negativo,0,0,17,sin_permiso
+35,@user_0035,dice que mi cuenta no tiene permiso para votar #encuesta,queja,negativo,0,0,10,sin_permiso
+36,@user_0036,sin verificación de identidad no hay voto...,explica_regla,neutro,1,0,967,abstencion
+37,@user_0037,todos los alumnos deberían poder votar #encuesta,en_contra_restriccion,negativo,0,0,22,sin_permiso
+38,@user_0038,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,4,sin_permiso
+39,@user_0039,la regla de no todos pueden votar discrimina #voto,en_contra_restriccion,negativo,1,1,1646,abstencion
+40,@user_0040,solo cuentas verificadas pueden votar pls,explica_regla,neutro,0,0,1,sin_permiso
+41,@user_0041,no es justo que no todos puedan votar #encuesta,queja,negativo,0,0,11,sin_permiso
+42,@user_0042,qué requisitos hay para poder votar,neutro_pregunta,neutro,1,1,408,abstencion
+43,@user_0043,si no todos pueden votar para qué preguntan,en_contra_restriccion,negativo,1,1,1185,abrir_voto_a_todos
+44,@user_0044,dice que mi cuenta no tiene permiso para votar??,queja,negativo,0,0,11,sin_permiso
+45,@user_0045,staff y alumnos verificados sí pueden votar...,explica_regla,neutro,0,0,19,sin_permiso
+46,@user_0046,si no todos pueden votar la encuesta no es válida #voto,queja,negativo,0,0,17,sin_permiso
+47,@user_0047,me sale error 403 al intentar votar.,queja,negativo,0,0,13,sin_permiso
+48,@user_0048,solo alumnos activos del semestre pueden votar,explica_regla,neutro,0,0,1,sin_permiso
+49,@user_0049,intenté votar tres veces y me rechaza pls,queja,negativo,0,0,9,sin_permiso
+50,@user_0050,me sale error 403 al intentar votar,queja,negativo,0,0,10,sin_permiso
+51,@user_0051,solo alumnos activos del semestre pueden votar,explica_regla,neutro,1,1,1297,abstencion
+52,@user_0052,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,2,sin_permiso
+53,@user_0053,puedo recuperar el permiso de voto,neutro_pregunta,neutro,1,1,725,a_favor_de_restringir
+54,@user_0054,para votar necesitas más de 30 días de antigüedad #encuesta,explica_regla,neutro,0,0,9,sin_permiso
+55,@user_0055,si no todos pueden votar la encuesta no es válida!,queja,negativo,0,0,9,sin_permiso
+56,@user_0056,no es justo que no todos puedan votar,queja,negativo,0,0,3,sin_permiso
+57,@user_0057,esto silencia a los de nuevo ingreso #voto,en_contra_restriccion,negativo,1,1,454,abrir_voto_a_todos
+58,@user_0058,intenté votar tres veces y me rechaza!,queja,negativo,0,0,1,sin_permiso
+59,@user_0059,quiero votar y la plataforma me bloquea #voto,queja,negativo,0,0,1,sin_permiso
+60,@user_0060,apoyo que solo voten cuentas verificadas...,a_favor_restriccion,positivo,1,1,559,a_favor_de_restringir
+61,@user_0061,moderación bloquea votos de cuentas recién creadas #voto,explica_regla,neutro,1,1,980,a_favor_de_restringir
+62,@user_0062,apoyo que solo voten cuentas verificadas...,a_favor_restriccion,positivo,1,1,771,a_favor_de_restringir
+63,@user_0063,hay que tener correo institucional para votar...,explica_regla,neutro,1,0,662,abstencion
+64,@user_0064,intenté votar tres veces y me rechaza,queja,negativo,0,0,16,sin_permiso
+65,@user_0065,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,1,1112,abrir_voto_a_todos
+66,@user_0066,quiero votar y la plataforma me bloquea #voto,queja,negativo,0,0,13,sin_permiso
+67,@user_0067,si eres sospechoso de bot no te dejan votar #voto,explica_regla,neutro,0,0,17,sin_permiso
+68,@user_0068,la regla de no todos pueden votar discrimina!,en_contra_restriccion,negativo,1,1,1192,abrir_voto_a_todos
+69,@user_0069,no es justo que no todos puedan votar!,queja,negativo,0,0,14,sin_permiso
+70,@user_0070,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,0,0,19,sin_permiso
+71,@user_0071,si no todos pueden votar para qué preguntan pls,en_contra_restriccion,negativo,0,0,13,sin_permiso
+72,@user_0072,esto silencia a los de nuevo ingreso #encuesta,en_contra_restriccion,negativo,0,0,13,sin_permiso
+73,@user_0073,solo cuentas verificadas pueden votar??,explica_regla,neutro,0,0,18,sin_permiso
+74,@user_0074,soy alumno y aun asi no puedo emitir voto!,queja,negativo,0,0,11,sin_permiso
+75,@user_0075,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,850,abstencion
+76,@user_0076,llevo poco tiempo registrado y no me deja votar #encuesta,queja,negativo,0,0,19,sin_permiso
+77,@user_0077,el reglamento dice: no todos pueden votar pls,explica_regla,neutro,1,1,1062,abstencion
+78,@user_0078,aparece el mensaje: no tienes permiso para votar #voto,queja,negativo,0,0,11,sin_permiso
+79,@user_0079,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,14,sin_permiso
+80,@user_0080,solo alumnos activos del semestre pueden votar #encuesta,explica_regla,neutro,1,1,930,abstencion
+81,@user_0081,si no todos pueden votar la encuesta no es válida pls,queja,negativo,0,0,1,sin_permiso
+82,@user_0082,mejor pocos votos reales que mil votos falsos #voto,a_favor_restriccion,positivo,0,0,12,sin_permiso
+83,@user_0083,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,11,sin_permiso
+84,@user_0084,quitar la restricción ya!,en_contra_restriccion,negativo,1,1,655,abrir_voto_a_todos
+85,@user_0085,staff y alumnos verificados sí pueden votar!,explica_regla,neutro,1,1,512,abstencion
+86,@user_0086,hay que tener correo institucional para votar...,explica_regla,neutro,0,0,1,sin_permiso
+87,@user_0087,sin verificación de identidad no hay voto!,explica_regla,neutro,0,0,23,sin_permiso
+88,@user_0088,la restricción de voto protege el resultado #voto,a_favor_restriccion,positivo,1,1,870,a_favor_de_restringir
+89,@user_0089,moderación bloquea votos de cuentas recién creadas,explica_regla,neutro,1,0,496,a_favor_de_restringir
+90,@user_0090,limitar el voto es necesario en este foro #voto,a_favor_restriccion,positivo,1,1,805,a_favor_de_restringir
+91,@user_0091,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,0,0,22,sin_permiso
+92,@user_0092,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,0,0,1,sin_permiso
+93,@user_0093,soy alumno y aun asi no puedo emitir voto #encuesta,queja,negativo,0,0,16,sin_permiso
+94,@user_0094,qué requisitos hay para poder votar??,neutro_pregunta,neutro,1,1,820,a_favor_de_restringir
+95,@user_0095,si no todos pueden votar la encuesta no es válida??,queja,negativo,0,0,10,sin_permiso
+96,@user_0096,todos los alumnos deberían poder votar #encuesta,en_contra_restriccion,negativo,1,1,1480,abstencion
+97,@user_0097,mejor pocos votos reales que mil votos falsos.,a_favor_restriccion,positivo,1,1,811,a_favor_de_restringir
+98,@user_0098,cuántos días de cuenta necesito para votar!,neutro_pregunta,neutro,0,0,1,sin_permiso
+99,@user_0099,si no todos pueden votar para qué preguntan??,en_contra_restriccion,negativo,0,0,15,sin_permiso
+100,@user_0100,solo alumnos activos del semestre pueden votar pls,explica_regla,neutro,1,1,1185,abstencion
+101,@user_0101,sin filtro de voto gana quien tenga más bots.,a_favor_restriccion,positivo,1,1,1378,a_favor_de_restringir
+102,@user_0102,está bien que no todos puedan votar así evitan bots #encuesta,a_favor_restriccion,positivo,0,0,1,sin_permiso
+103,@user_0103,la restricción de voto protege el resultado pls,a_favor_restriccion,positivo,1,1,550,a_favor_de_restringir
+104,@user_0104,esto silencia a los de nuevo ingreso...,en_contra_restriccion,negativo,1,1,1157,abstencion
+105,@user_0105,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,2,sin_permiso
+106,@user_0106,no es justo que no todos puedan votar,queja,negativo,0,0,13,sin_permiso
+107,@user_0107,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,1135,a_favor_de_restringir
+108,@user_0108,si dejan votar a cualquiera manipulan la encuesta??,a_favor_restriccion,positivo,0,0,1,sin_permiso
+109,@user_0109,si dejan votar a cualquiera manipulan la encuesta pls,a_favor_restriccion,positivo,0,0,6,sin_permiso
+110,@user_0110,alguien sabe por qué no todos pueden votar??,neutro_pregunta,neutro,0,0,14,sin_permiso
+111,@user_0111,si eres sospechoso de bot no te dejan votar??,explica_regla,neutro,0,0,6,sin_permiso
+112,@user_0112,moderación bloquea votos de cuentas recién creadas,explica_regla,neutro,1,0,1306,abrir_voto_a_todos
+113,@user_0113,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,1,1,998,a_favor_de_restringir
+114,@user_0114,el botón de votar está gris qué significa #encuesta,neutro_pregunta,neutro,1,1,602,abstencion
+115,@user_0115,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,1,636,abstencion
+116,@user_0116,para votar necesitas más de 30 días de antigüedad #encuesta,explica_regla,neutro,1,1,940,abstencion
+117,@user_0117,concuerdo: no todos deben poder votar aquí #voto,a_favor_restriccion,positivo,1,1,626,abstencion
+118,@user_0118,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,0,0,2,sin_permiso
+119,@user_0119,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,7,sin_permiso
+120,@user_0120,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,1,1,619,abstencion
+121,@user_0121,el reglamento dice: no todos pueden votar pls,explica_regla,neutro,1,1,1255,abstencion
+122,@user_0122,abrir el voto a todos haría más legítima la encuesta??,en_contra_restriccion,negativo,0,0,14,sin_permiso
+123,@user_0123,moderación bloquea votos de cuentas recién creadas.,explica_regla,neutro,0,0,1,sin_permiso
+124,@user_0124,quién sí puede votar entonces pls,neutro_pregunta,neutro,1,1,1121,abrir_voto_a_todos
+125,@user_0125,el botón de votar está gris qué significa pls,neutro_pregunta,neutro,1,1,446,abstencion
+126,@user_0126,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,0,0,5,sin_permiso
+127,@user_0127,alguien sabe por qué no todos pueden votar...,neutro_pregunta,neutro,1,0,614,abstencion
+128,@user_0128,solo cuentas verificadas pueden votar!,explica_regla,neutro,0,0,18,sin_permiso
+129,@user_0129,abrir el voto a todos haría más legítima la encuesta!,en_contra_restriccion,negativo,1,1,807,abrir_voto_a_todos
+130,@user_0130,si no todos pueden votar la encuesta no es válida #voto,queja,negativo,0,0,3,sin_permiso
+131,@user_0131,las cuentas nuevas no pueden votar por seguridad #encuesta,explica_regla,neutro,1,1,1005,a_favor_de_restringir
+132,@user_0132,quitar la restricción ya.,en_contra_restriccion,negativo,0,0,8,sin_permiso
+133,@user_0133,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,4,sin_permiso
+134,@user_0134,quiero votar y la plataforma me bloquea,queja,negativo,0,0,1,sin_permiso
+135,@user_0135,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,4,sin_permiso
+136,@user_0136,quitar la restricción ya #encuesta,en_contra_restriccion,negativo,0,0,1,sin_permiso
+137,@user_0137,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,0,0,1,sin_permiso
+138,@user_0138,quién sí puede votar entonces pls,neutro_pregunta,neutro,1,0,637,a_favor_de_restringir
+139,@user_0139,si no todos pueden votar la encuesta no es válida pls,queja,negativo,0,0,9,sin_permiso
+140,@user_0140,apoyo que solo voten cuentas verificadas #encuesta,a_favor_restriccion,positivo,0,0,11,sin_permiso
+141,@user_0141,sin verificación de identidad no hay voto pls,explica_regla,neutro,1,1,1308,abstencion
+142,@user_0142,por qué no todos pueden votar en esta encuesta,queja,negativo,0,0,4,sin_permiso
+143,@user_0143,solo alumnos activos del semestre pueden votar!,explica_regla,neutro,1,0,698,abstencion
+144,@user_0144,las cuentas nuevas no pueden votar por seguridad,explica_regla,neutro,1,1,1384,abrir_voto_a_todos
+145,@user_0145,hay que tener correo institucional para votar??,explica_regla,neutro,0,0,3,sin_permiso
+146,@user_0146,si no todos pueden votar para qué preguntan!,en_contra_restriccion,negativo,0,0,12,sin_permiso
+147,@user_0147,limitar el voto es necesario en este foro...,a_favor_restriccion,positivo,1,0,1192,a_favor_de_restringir
+148,@user_0148,staff y alumnos verificados sí pueden votar.,explica_regla,neutro,1,1,999,abrir_voto_a_todos
+149,@user_0149,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,0,0,1,sin_permiso
+150,@user_0150,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,14,sin_permiso
+151,@user_0151,abrir el voto a todos haría más legítima la encuesta...,en_contra_restriccion,negativo,1,1,924,abstencion
+152,@user_0152,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,4,sin_permiso
+153,@user_0153,cuántos días de cuenta necesito para votar??,neutro_pregunta,neutro,0,0,1,sin_permiso
+154,@user_0154,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,1,sin_permiso
+155,@user_0155,mejor pocos votos reales que mil votos falsos...,a_favor_restriccion,positivo,1,1,651,abstencion
+156,@user_0156,solo cuentas verificadas pueden votar.,explica_regla,neutro,0,0,6,sin_permiso
+157,@user_0157,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,0,839,abstencion
+158,@user_0158,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,15,sin_permiso
+159,@user_0159,sin verificación de identidad no hay voto,explica_regla,neutro,1,1,812,a_favor_de_restringir
+160,@user_0160,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,4,sin_permiso
+161,@user_0161,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,1,sin_permiso
+162,@user_0162,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,6,sin_permiso
+163,@user_0163,no es justo que no todos puedan votar,queja,negativo,0,0,12,sin_permiso
+164,@user_0164,no es justo que no todos puedan votar??,queja,negativo,0,0,21,sin_permiso
+165,@user_0165,la regla de no todos pueden votar discrimina!,en_contra_restriccion,negativo,0,0,8,sin_permiso
+166,@user_0166,sin verificación de identidad no hay voto #voto,explica_regla,neutro,1,1,978,abstencion
+167,@user_0167,la regla de no todos pueden votar discrimina??,en_contra_restriccion,negativo,1,1,1367,abrir_voto_a_todos
+168,@user_0168,solo cuentas verificadas pueden votar pls,explica_regla,neutro,0,0,10,sin_permiso
+169,@user_0169,me sale error 403 al intentar votar,queja,negativo,0,0,11,sin_permiso
+170,@user_0170,puedo recuperar el permiso de voto pls,neutro_pregunta,neutro,0,0,4,sin_permiso
+171,@user_0171,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,19,sin_permiso
+172,@user_0172,mejor pocos votos reales que mil votos falsos #encuesta,a_favor_restriccion,positivo,1,1,231,a_favor_de_restringir
+173,@user_0173,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,0,0,7,sin_permiso
+174,@user_0174,cuántos días de cuenta necesito para votar??,neutro_pregunta,neutro,0,0,12,sin_permiso
+175,@user_0175,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,1,564,a_favor_de_restringir
+176,@user_0176,hay una lista de quiénes sí votan!,neutro_pregunta,neutro,1,1,1047,abstencion
+177,@user_0177,la regla de no todos pueden votar discrimina...,en_contra_restriccion,negativo,1,0,538,abstencion
+178,@user_0178,dónde veo si mi cuenta puede votar...,neutro_pregunta,neutro,1,1,682,abrir_voto_a_todos
+179,@user_0179,dice que mi cuenta no tiene permiso para votar pls,queja,negativo,0,0,6,sin_permiso
+180,@user_0180,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,816,abrir_voto_a_todos
+181,@user_0181,esto silencia a los de nuevo ingreso #voto,en_contra_restriccion,negativo,0,0,10,sin_permiso
+182,@user_0182,dice que mi cuenta no tiene permiso para votar #voto,queja,negativo,0,0,1,sin_permiso
+183,@user_0183,excluir gente del voto es antidemocrático.,en_contra_restriccion,negativo,1,0,1,abrir_voto_a_todos
+184,@user_0184,yo pago inscripción y no puedo votar absurdo pls,en_contra_restriccion,negativo,0,0,10,sin_permiso
+185,@user_0185,excluir gente del voto es antidemocrático...,en_contra_restriccion,negativo,0,0,21,sin_permiso
+186,@user_0186,está bien que no todos puedan votar así evitan bots??,a_favor_restriccion,positivo,0,0,1,sin_permiso
+187,@user_0187,me sale error 403 al intentar votar!,queja,negativo,0,0,22,sin_permiso
+188,@user_0188,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,660,abstencion
+189,@user_0189,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,0,0,20,sin_permiso
+190,@user_0190,sin verificación de identidad no hay voto...,explica_regla,neutro,0,0,15,sin_permiso
+191,@user_0191,todos los alumnos deberían poder votar #voto,en_contra_restriccion,negativo,0,0,8,sin_permiso
+192,@user_0192,alguien sabe por qué no todos pueden votar??,neutro_pregunta,neutro,0,0,9,sin_permiso
+193,@user_0193,yo pago inscripción y no puedo votar absurdo??,en_contra_restriccion,negativo,1,1,402,abrir_voto_a_todos
+194,@user_0194,hay una lista de quiénes sí votan!,neutro_pregunta,neutro,0,0,1,sin_permiso
+195,@user_0195,todos los alumnos deberían poder votar.,en_contra_restriccion,negativo,1,1,1455,abrir_voto_a_todos
+196,@user_0196,quién sí puede votar entonces,neutro_pregunta,neutro,1,1,286,a_favor_de_restringir
+197,@user_0197,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,1175,abrir_voto_a_todos
+198,@user_0198,cuántos días de cuenta necesito para votar!,neutro_pregunta,neutro,0,0,32,sin_permiso
+199,@user_0199,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,1,sin_permiso
+200,@user_0200,está bien que no todos puedan votar así evitan bots #voto,a_favor_restriccion,positivo,0,0,3,sin_permiso
+201,@user_0201,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,1,772,abrir_voto_a_todos
+202,@user_0202,dice que mi cuenta no tiene permiso para votar!,queja,negativo,0,0,1,sin_permiso
+203,@user_0203,por qué no todos pueden votar en esta encuesta #encuesta,queja,negativo,0,0,7,sin_permiso
+204,@user_0204,yo pago inscripción y no puedo votar absurdo,en_contra_restriccion,negativo,0,0,13,sin_permiso
+205,@user_0205,hay que tener correo institucional para votar...,explica_regla,neutro,0,0,14,sin_permiso
+206,@user_0206,el reglamento dice: no todos pueden votar #encuesta,explica_regla,neutro,0,0,9,sin_permiso
+207,@user_0207,para votar necesitas más de 30 días de antigüedad!,explica_regla,neutro,1,1,355,a_favor_de_restringir
+208,@user_0208,sin verificación de identidad no hay voto!,explica_regla,neutro,1,1,416,a_favor_de_restringir
+209,@user_0209,abrir el voto a todos haría más legítima la encuesta...,en_contra_restriccion,negativo,1,1,452,abrir_voto_a_todos
+210,@user_0210,moderación bloquea votos de cuentas recién creadas #voto,explica_regla,neutro,0,0,4,sin_permiso
+211,@user_0211,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,0,0,2,sin_permiso
+212,@user_0212,si no todos pueden votar para qué preguntan!,en_contra_restriccion,negativo,0,0,1,sin_permiso
+213,@user_0213,staff y alumnos verificados sí pueden votar...,explica_regla,neutro,0,0,6,sin_permiso
+214,@user_0214,me sale error 403 al intentar votar pls,queja,negativo,0,0,1,sin_permiso
+215,@user_0215,el reglamento dice: no todos pueden votar pls,explica_regla,neutro,0,0,1,sin_permiso
+216,@user_0216,por qué no todos pueden votar en esta encuesta!,queja,negativo,0,0,13,sin_permiso
+217,@user_0217,limitar el voto es necesario en este foro??,a_favor_restriccion,positivo,1,1,854,a_favor_de_restringir
+218,@user_0218,si no todos pueden votar la encuesta no es válida.,queja,negativo,0,0,22,sin_permiso
+219,@user_0219,qué requisitos hay para poder votar #voto,neutro_pregunta,neutro,1,1,993,a_favor_de_restringir
+220,@user_0220,está bien que no todos puedan votar así evitan bots #voto,a_favor_restriccion,positivo,1,1,410,abstencion
+221,@user_0221,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,0,0,21,sin_permiso
+222,@user_0222,staff y alumnos verificados sí pueden votar.,explica_regla,neutro,0,0,4,sin_permiso
+223,@user_0223,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,12,sin_permiso
+224,@user_0224,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,805,abstencion
+225,@user_0225,las cuentas nuevas no pueden votar por seguridad!,explica_regla,neutro,1,1,246,abrir_voto_a_todos
+226,@user_0226,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,14,sin_permiso
+227,@user_0227,concuerdo: no todos deben poder votar aquí pls,a_favor_restriccion,positivo,1,1,879,a_favor_de_restringir
+228,@user_0228,qué requisitos hay para poder votar pls,neutro_pregunta,neutro,0,0,17,sin_permiso
+229,@user_0229,sin verificación de identidad no hay voto??,explica_regla,neutro,1,1,1291,abstencion
+230,@user_0230,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,6,sin_permiso
+231,@user_0231,me sale error 403 al intentar votar??,queja,negativo,0,0,9,sin_permiso
+232,@user_0232,si eres sospechoso de bot no te dejan votar.,explica_regla,neutro,0,0,3,sin_permiso
+233,@user_0233,solo cuentas verificadas pueden votar!,explica_regla,neutro,1,1,428,abrir_voto_a_todos
+234,@user_0234,alguien sabe por qué no todos pueden votar #encuesta,neutro_pregunta,neutro,0,0,10,sin_permiso
+235,@user_0235,hay una lista de quiénes sí votan??,neutro_pregunta,neutro,1,1,26,abstencion
+236,@user_0236,llevo poco tiempo registrado y no me deja votar!,queja,negativo,0,0,7,sin_permiso
+237,@user_0237,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,766,abrir_voto_a_todos
+238,@user_0238,si eres sospechoso de bot no te dejan votar!,explica_regla,neutro,1,1,926,a_favor_de_restringir
+239,@user_0239,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,1,1,510,abstencion
+240,@user_0240,sin filtro de voto gana quien tenga más bots...,a_favor_restriccion,positivo,1,0,429,a_favor_de_restringir
+241,@user_0241,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,384,abstencion
+242,@user_0242,solo alumnos activos del semestre pueden votar...,explica_regla,neutro,0,0,9,sin_permiso
+243,@user_0243,solo alumnos activos del semestre pueden votar.,explica_regla,neutro,1,1,867,abstencion
+244,@user_0244,qué requisitos hay para poder votar,neutro_pregunta,neutro,0,0,3,sin_permiso
+245,@user_0245,intenté votar tres veces y me rechaza #encuesta,queja,negativo,0,0,14,sin_permiso
+246,@user_0246,abrir el voto a todos haría más legítima la encuesta pls,en_contra_restriccion,negativo,0,0,31,sin_permiso
+247,@user_0247,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,1,sin_permiso
+248,@user_0248,me sale error 403 al intentar votar pls,queja,negativo,0,0,1,sin_permiso
+249,@user_0249,excluir gente del voto es antidemocrático #voto,en_contra_restriccion,negativo,1,1,1109,abrir_voto_a_todos
+250,@user_0250,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,1,sin_permiso
+251,@user_0251,solo alumnos activos del semestre pueden votar,explica_regla,neutro,1,0,692,abrir_voto_a_todos
+252,@user_0252,quién sí puede votar entonces.,neutro_pregunta,neutro,0,0,19,sin_permiso
+253,@user_0253,sin filtro de voto gana quien tenga más bots??,a_favor_restriccion,positivo,1,1,778,a_favor_de_restringir
+254,@user_0254,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,317,a_favor_de_restringir
+255,@user_0255,excluir gente del voto es antidemocrático.,en_contra_restriccion,negativo,1,1,804,abrir_voto_a_todos
+256,@user_0256,la regla de no todos pueden votar discrimina #encuesta,en_contra_restriccion,negativo,1,1,560,abrir_voto_a_todos
+257,@user_0257,está bien que no todos puedan votar así evitan bots...,a_favor_restriccion,positivo,1,1,865,a_favor_de_restringir
+258,@user_0258,me sale error 403 al intentar votar,queja,negativo,0,0,10,sin_permiso
+259,@user_0259,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,929,a_favor_de_restringir
+260,@user_0260,puedo recuperar el permiso de voto??,neutro_pregunta,neutro,1,1,1000,abstencion
+261,@user_0261,abrir el voto a todos haría más legítima la encuesta #encuesta,en_contra_restriccion,negativo,1,1,1049,abrir_voto_a_todos
+262,@user_0262,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,0,609,a_favor_de_restringir
+263,@user_0263,me sale error 403 al intentar votar #encuesta,queja,negativo,0,0,10,sin_permiso
+264,@user_0264,la restricción de voto protege el resultado #encuesta,a_favor_restriccion,positivo,1,0,742,a_favor_de_restringir
+265,@user_0265,está bien que no todos puedan votar así evitan bots...,a_favor_restriccion,positivo,0,0,16,sin_permiso
+266,@user_0266,hay una lista de quiénes sí votan.,neutro_pregunta,neutro,0,0,6,sin_permiso
+267,@user_0267,intenté votar tres veces y me rechaza!,queja,negativo,0,0,26,sin_permiso
+268,@user_0268,quién sí puede votar entonces pls,neutro_pregunta,neutro,1,1,91,a_favor_de_restringir
+269,@user_0269,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,0,0,1,sin_permiso
+270,@user_0270,si no todos pueden votar para qué preguntan pls,en_contra_restriccion,negativo,1,1,1148,abrir_voto_a_todos
+271,@user_0271,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,1,1,968,a_favor_de_restringir
+272,@user_0272,quitar la restricción ya,en_contra_restriccion,negativo,0,0,1,sin_permiso
+273,@user_0273,yo pago inscripción y no puedo votar absurdo,en_contra_restriccion,negativo,1,1,1027,abrir_voto_a_todos
+274,@user_0274,no es justo que no todos puedan votar.,queja,negativo,0,0,1,sin_permiso
+275,@user_0275,quitar la restricción ya!,en_contra_restriccion,negativo,1,1,642,abrir_voto_a_todos
+276,@user_0276,puedo recuperar el permiso de voto,neutro_pregunta,neutro,1,0,408,a_favor_de_restringir
+277,@user_0277,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,17,sin_permiso
+278,@user_0278,qué requisitos hay para poder votar.,neutro_pregunta,neutro,1,0,604,abstencion
+279,@user_0279,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,1,1,814,abrir_voto_a_todos
+280,@user_0280,solo alumnos activos del semestre pueden votar.,explica_regla,neutro,0,0,16,sin_permiso
+281,@user_0281,las cuentas nuevas no pueden votar por seguridad pls,explica_regla,neutro,1,1,1097,abstencion
+282,@user_0282,las cuentas nuevas no pueden votar por seguridad pls,explica_regla,neutro,0,0,1,sin_permiso
+283,@user_0283,no es justo que no todos puedan votar.,queja,negativo,0,0,1,sin_permiso
+284,@user_0284,excluir gente del voto es antidemocrático #encuesta,en_contra_restriccion,negativo,0,0,12,sin_permiso
+285,@user_0285,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,1,1,1015,abstencion
+286,@user_0286,puedo recuperar el permiso de voto!,neutro_pregunta,neutro,0,0,1,sin_permiso
+287,@user_0287,excluir gente del voto es antidemocrático...,en_contra_restriccion,negativo,1,0,1309,abrir_voto_a_todos
+288,@user_0288,solo alumnos activos del semestre pueden votar...,explica_regla,neutro,0,0,7,sin_permiso
+289,@user_0289,la restricción de voto protege el resultado #voto,a_favor_restriccion,positivo,1,1,580,a_favor_de_restringir
+290,@user_0290,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,25,sin_permiso
+291,@user_0291,el reglamento dice: no todos pueden votar #encuesta,explica_regla,neutro,1,1,1304,abstencion
+292,@user_0292,las cuentas nuevas no pueden votar por seguridad??,explica_regla,neutro,1,1,757,abrir_voto_a_todos
+293,@user_0293,está bien que no todos puedan votar así evitan bots #voto,a_favor_restriccion,positivo,1,1,1598,a_favor_de_restringir
+294,@user_0294,aparece el mensaje: no tienes permiso para votar??,queja,negativo,0,0,20,sin_permiso
+295,@user_0295,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,737,a_favor_de_restringir
+296,@user_0296,limitar el voto es necesario en este foro!,a_favor_restriccion,positivo,1,1,588,abstencion
+297,@user_0297,hay una lista de quiénes sí votan,neutro_pregunta,neutro,1,1,745,a_favor_de_restringir
+298,@user_0298,quiero votar y la plataforma me bloquea,queja,negativo,0,0,22,sin_permiso
+299,@user_0299,alguien sabe por qué no todos pueden votar!,neutro_pregunta,neutro,1,0,1005,abstencion
+300,@user_0300,me sale error 403 al intentar votar!,queja,negativo,0,0,23,sin_permiso
+301,@user_0301,sin filtro de voto gana quien tenga más bots!,a_favor_restriccion,positivo,1,1,179,a_favor_de_restringir
+302,@user_0302,cuántos días de cuenta necesito para votar...,neutro_pregunta,neutro,0,0,6,sin_permiso
+303,@user_0303,me sale error 403 al intentar votar.,queja,negativo,0,0,12,sin_permiso
+304,@user_0304,la regla de no todos pueden votar discrimina pls,en_contra_restriccion,negativo,0,0,6,sin_permiso
+305,@user_0305,para votar necesitas más de 30 días de antigüedad.,explica_regla,neutro,1,1,872,abstencion
+306,@user_0306,alguien sabe por qué no todos pueden votar #encuesta,neutro_pregunta,neutro,0,0,6,sin_permiso
+307,@user_0307,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,0,131,abrir_voto_a_todos
+308,@user_0308,llevo poco tiempo registrado y no me deja votar #voto,queja,negativo,0,0,12,sin_permiso
+309,@user_0309,qué requisitos hay para poder votar??,neutro_pregunta,neutro,0,0,1,sin_permiso
+310,@user_0310,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,0,0,12,sin_permiso
+311,@user_0311,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,1,850,abstencion
+312,@user_0312,está bien que no todos puedan votar así evitan bots!,a_favor_restriccion,positivo,1,0,572,abstencion
+313,@user_0313,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,722,abstencion
+314,@user_0314,el botón de votar está gris qué significa!,neutro_pregunta,neutro,1,1,1061,abstencion
+315,@user_0315,todos los alumnos deberían poder votar...,en_contra_restriccion,negativo,0,0,3,sin_permiso
+316,@user_0316,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,6,sin_permiso
+317,@user_0317,llevo poco tiempo registrado y no me deja votar??,queja,negativo,0,0,1,sin_permiso
+318,@user_0318,excluir gente del voto es antidemocrático.,en_contra_restriccion,negativo,0,0,19,sin_permiso
+319,@user_0319,quitar la restricción ya.,en_contra_restriccion,negativo,1,1,1237,abstencion
+320,@user_0320,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,1,1,922,a_favor_de_restringir
+321,@user_0321,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,1,1,683,abrir_voto_a_todos
+322,@user_0322,staff y alumnos verificados sí pueden votar #encuesta,explica_regla,neutro,1,1,498,abrir_voto_a_todos
+323,@user_0323,hay que tener correo institucional para votar pls,explica_regla,neutro,0,0,10,sin_permiso
+324,@user_0324,no es justo que no todos puedan votar...,queja,negativo,0,0,10,sin_permiso
+325,@user_0325,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,12,sin_permiso
+326,@user_0326,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,1,sin_permiso
+327,@user_0327,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,14,sin_permiso
+328,@user_0328,hay una lista de quiénes sí votan...,neutro_pregunta,neutro,0,0,5,sin_permiso
+329,@user_0329,solo alumnos activos del semestre pueden votar??,explica_regla,neutro,0,0,15,sin_permiso
+330,@user_0330,intenté votar tres veces y me rechaza??,queja,negativo,0,0,3,sin_permiso
+331,@user_0331,aparece el mensaje: no tienes permiso para votar!,queja,negativo,0,0,13,sin_permiso
+332,@user_0332,solo alumnos activos del semestre pueden votar pls,explica_regla,neutro,1,1,1333,a_favor_de_restringir
+333,@user_0333,quitar la restricción ya pls,en_contra_restriccion,negativo,1,1,767,abrir_voto_a_todos
+334,@user_0334,llevo poco tiempo registrado y no me deja votar...,queja,negativo,0,0,5,sin_permiso
+335,@user_0335,si dejan votar a cualquiera manipulan la encuesta!,a_favor_restriccion,positivo,1,0,531,abstencion
+336,@user_0336,yo pago inscripción y no puedo votar absurdo!,en_contra_restriccion,negativo,0,0,7,sin_permiso
+337,@user_0337,dice que mi cuenta no tiene permiso para votar??,queja,negativo,0,0,20,sin_permiso
+338,@user_0338,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,9,sin_permiso
+339,@user_0339,si no todos pueden votar para qué preguntan pls,en_contra_restriccion,negativo,0,0,3,sin_permiso
+340,@user_0340,no es justo que no todos puedan votar pls,queja,negativo,0,0,15,sin_permiso
+341,@user_0341,dónde veo si mi cuenta puede votar pls,neutro_pregunta,neutro,1,1,773,abstencion
+342,@user_0342,cuántos días de cuenta necesito para votar.,neutro_pregunta,neutro,0,0,22,sin_permiso
+343,@user_0343,por qué no todos pueden votar en esta encuesta #encuesta,queja,negativo,0,0,3,sin_permiso
+344,@user_0344,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,1,1,567,abrir_voto_a_todos
+345,@user_0345,abrir el voto a todos haría más legítima la encuesta??,en_contra_restriccion,negativo,1,0,975,abrir_voto_a_todos
+346,@user_0346,intenté votar tres veces y me rechaza.,queja,negativo,0,0,8,sin_permiso
+347,@user_0347,el reglamento dice: no todos pueden votar.,explica_regla,neutro,1,1,581,abstencion
+348,@user_0348,aparece el mensaje: no tienes permiso para votar!,queja,negativo,0,0,6,sin_permiso
+349,@user_0349,limitar el voto es necesario en este foro...,a_favor_restriccion,positivo,1,1,1101,a_favor_de_restringir
+350,@user_0350,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,0,0,1,sin_permiso
+351,@user_0351,quién sí puede votar entonces.,neutro_pregunta,neutro,0,0,6,sin_permiso
+352,@user_0352,concuerdo: no todos deben poder votar aquí.,a_favor_restriccion,positivo,0,0,5,sin_permiso
+353,@user_0353,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,2,sin_permiso
+354,@user_0354,está bien que no todos puedan votar así evitan bots #voto,a_favor_restriccion,positivo,0,0,24,sin_permiso
+355,@user_0355,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,5,sin_permiso
+356,@user_0356,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,6,sin_permiso
+357,@user_0357,por qué no todos pueden votar en esta encuesta,queja,negativo,0,0,12,sin_permiso
+358,@user_0358,la restricción de voto protege el resultado #voto,a_favor_restriccion,positivo,1,1,360,abstencion
+359,@user_0359,puedo recuperar el permiso de voto #voto,neutro_pregunta,neutro,1,0,722,abrir_voto_a_todos
+360,@user_0360,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,13,sin_permiso
+361,@user_0361,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,0,0,11,sin_permiso
+362,@user_0362,el reglamento dice: no todos pueden votar #voto,explica_regla,neutro,1,1,266,abstencion
+363,@user_0363,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,0,0,14,sin_permiso
+364,@user_0364,la restricción de voto protege el resultado pls,a_favor_restriccion,positivo,1,1,7,a_favor_de_restringir
+365,@user_0365,qué requisitos hay para poder votar,neutro_pregunta,neutro,0,0,4,sin_permiso
+366,@user_0366,hay que tener correo institucional para votar,explica_regla,neutro,1,1,779,abrir_voto_a_todos
+367,@user_0367,aparece el mensaje: no tienes permiso para votar!,queja,negativo,0,0,7,sin_permiso
+368,@user_0368,si no todos pueden votar para qué preguntan,en_contra_restriccion,negativo,1,1,1006,abrir_voto_a_todos
+369,@user_0369,la restricción de voto protege el resultado,a_favor_restriccion,positivo,1,0,586,a_favor_de_restringir
+370,@user_0370,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,1,862,abrir_voto_a_todos
+371,@user_0371,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,1,1603,a_favor_de_restringir
+372,@user_0372,me sale error 403 al intentar votar,queja,negativo,0,0,21,sin_permiso
+373,@user_0373,si eres sospechoso de bot no te dejan votar.,explica_regla,neutro,0,0,8,sin_permiso
+374,@user_0374,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,17,sin_permiso
+375,@user_0375,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,1,1,443,abrir_voto_a_todos
+376,@user_0376,me sale error 403 al intentar votar pls,queja,negativo,0,0,15,sin_permiso
+377,@user_0377,alguien sabe por qué no todos pueden votar.,neutro_pregunta,neutro,1,0,877,abstencion
+378,@user_0378,para votar necesitas más de 30 días de antigüedad.,explica_regla,neutro,1,1,911,abrir_voto_a_todos
+379,@user_0379,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,19,sin_permiso
+380,@user_0380,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,0,0,1,sin_permiso
+381,@user_0381,concuerdo: no todos deben poder votar aquí...,a_favor_restriccion,positivo,1,0,471,a_favor_de_restringir
+382,@user_0382,dice que mi cuenta no tiene permiso para votar pls,queja,negativo,0,0,7,sin_permiso
+383,@user_0383,hay que tener correo institucional para votar.,explica_regla,neutro,1,1,1497,a_favor_de_restringir
+384,@user_0384,puedo recuperar el permiso de voto #voto,neutro_pregunta,neutro,1,1,1340,abstencion
+385,@user_0385,la restricción de voto protege el resultado #encuesta,a_favor_restriccion,positivo,1,1,1224,a_favor_de_restringir
+386,@user_0386,el reglamento dice: no todos pueden votar??,explica_regla,neutro,1,1,174,abstencion
+387,@user_0387,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,1,sin_permiso
+388,@user_0388,excluir gente del voto es antidemocrático #encuesta,en_contra_restriccion,negativo,1,1,652,abrir_voto_a_todos
+389,@user_0389,dice que mi cuenta no tiene permiso para votar...,queja,negativo,0,0,6,sin_permiso
+390,@user_0390,staff y alumnos verificados sí pueden votar...,explica_regla,neutro,1,1,362,a_favor_de_restringir
+391,@user_0391,hay que tener correo institucional para votar #encuesta,explica_regla,neutro,1,1,580,a_favor_de_restringir
+392,@user_0392,sin verificación de identidad no hay voto,explica_regla,neutro,0,0,11,sin_permiso
+393,@user_0393,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,1,0,1225,abrir_voto_a_todos
+394,@user_0394,concuerdo: no todos deben poder votar aquí pls,a_favor_restriccion,positivo,1,0,848,abstencion
+395,@user_0395,dice que mi cuenta no tiene permiso para votar!,queja,negativo,0,0,1,sin_permiso
+396,@user_0396,quitar la restricción ya.,en_contra_restriccion,negativo,1,1,569,abstencion
+397,@user_0397,dónde veo si mi cuenta puede votar #voto,neutro_pregunta,neutro,1,1,1213,abstencion
+398,@user_0398,quitar la restricción ya!,en_contra_restriccion,negativo,1,1,851,abstencion
+399,@user_0399,si no todos pueden votar la encuesta no es válida!,queja,negativo,0,0,8,sin_permiso
+400,@user_0400,sin verificación de identidad no hay voto??,explica_regla,neutro,1,1,1526,abstencion
+401,@user_0401,quiero votar y la plataforma me bloquea pls,queja,negativo,0,0,1,sin_permiso
+402,@user_0402,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,7,sin_permiso
+403,@user_0403,solo cuentas verificadas pueden votar pls,explica_regla,neutro,1,0,874,abrir_voto_a_todos
+404,@user_0404,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,1495,abrir_voto_a_todos
+405,@user_0405,hay una lista de quiénes sí votan,neutro_pregunta,neutro,1,1,801,abstencion
+406,@user_0406,dice que mi cuenta no tiene permiso para votar??,queja,negativo,0,0,8,sin_permiso
+407,@user_0407,staff y alumnos verificados sí pueden votar,explica_regla,neutro,1,0,883,a_favor_de_restringir
+408,@user_0408,intenté votar tres veces y me rechaza??,queja,negativo,0,0,8,sin_permiso
+409,@user_0409,esto silencia a los de nuevo ingreso??,en_contra_restriccion,negativo,1,1,1020,abrir_voto_a_todos
+410,@user_0410,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,13,sin_permiso
+411,@user_0411,la regla de no todos pueden votar discrimina??,en_contra_restriccion,negativo,1,1,456,abrir_voto_a_todos
+412,@user_0412,si no todos pueden votar la encuesta no es válida.,queja,negativo,0,0,22,sin_permiso
+413,@user_0413,si no todos pueden votar para qué preguntan.,en_contra_restriccion,negativo,0,0,16,sin_permiso
+414,@user_0414,alguien sabe por qué no todos pueden votar.,neutro_pregunta,neutro,1,1,426,abstencion
+415,@user_0415,si no todos pueden votar para qué preguntan,en_contra_restriccion,negativo,0,0,1,sin_permiso
+416,@user_0416,quitar la restricción ya #encuesta,en_contra_restriccion,negativo,0,0,8,sin_permiso
+417,@user_0417,apoyo que solo voten cuentas verificadas??,a_favor_restriccion,positivo,1,1,775,abstencion
+418,@user_0418,no es justo que no todos puedan votar??,queja,negativo,0,0,16,sin_permiso
+419,@user_0419,quitar la restricción ya #encuesta,en_contra_restriccion,negativo,0,0,21,sin_permiso
+420,@user_0420,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,1,485,a_favor_de_restringir
+421,@user_0421,llevo poco tiempo registrado y no me deja votar #encuesta,queja,negativo,0,0,22,sin_permiso
+422,@user_0422,qué requisitos hay para poder votar,neutro_pregunta,neutro,1,1,876,a_favor_de_restringir
+423,@user_0423,dice que mi cuenta no tiene permiso para votar #voto,queja,negativo,0,0,16,sin_permiso
+424,@user_0424,qué requisitos hay para poder votar pls,neutro_pregunta,neutro,1,1,200,abstencion
+425,@user_0425,qué requisitos hay para poder votar #voto,neutro_pregunta,neutro,1,1,1171,a_favor_de_restringir
+426,@user_0426,concuerdo: no todos deben poder votar aquí #voto,a_favor_restriccion,positivo,0,0,13,sin_permiso
+427,@user_0427,me sale error 403 al intentar votar pls,queja,negativo,0,0,12,sin_permiso
+428,@user_0428,la regla de no todos pueden votar discrimina??,en_contra_restriccion,negativo,1,1,720,abrir_voto_a_todos
+429,@user_0429,sin filtro de voto gana quien tenga más bots.,a_favor_restriccion,positivo,1,0,1167,a_favor_de_restringir
+430,@user_0430,quitar la restricción ya,en_contra_restriccion,negativo,1,1,332,abstencion
+431,@user_0431,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,469,abstencion
+432,@user_0432,para votar necesitas más de 30 días de antigüedad #voto,explica_regla,neutro,1,1,930,abrir_voto_a_todos
+433,@user_0433,moderación bloquea votos de cuentas recién creadas.,explica_regla,neutro,0,0,12,sin_permiso
+434,@user_0434,si no todos pueden votar la encuesta no es válida #voto,queja,negativo,0,0,13,sin_permiso
+435,@user_0435,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,0,0,4,sin_permiso
+436,@user_0436,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,0,0,4,sin_permiso
+437,@user_0437,por qué no todos pueden votar en esta encuesta #encuesta,queja,negativo,0,0,18,sin_permiso
+438,@user_0438,puedo recuperar el permiso de voto pls,neutro_pregunta,neutro,0,0,11,sin_permiso
+439,@user_0439,solo alumnos activos del semestre pueden votar #encuesta,explica_regla,neutro,1,0,1346,abstencion
+440,@user_0440,hay una lista de quiénes sí votan??,neutro_pregunta,neutro,1,1,741,abstencion
+441,@user_0441,solo cuentas verificadas pueden votar pls,explica_regla,neutro,1,1,949,a_favor_de_restringir
+442,@user_0442,quiero votar y la plataforma me bloquea pls,queja,negativo,0,0,27,sin_permiso
+443,@user_0443,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,1,1020,abrir_voto_a_todos
+444,@user_0444,llevo poco tiempo registrado y no me deja votar...,queja,negativo,0,0,21,sin_permiso
+445,@user_0445,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,1,1,1427,abstencion
+446,@user_0446,el reglamento dice: no todos pueden votar!,explica_regla,neutro,0,0,32,sin_permiso
+447,@user_0447,alguien sabe por qué no todos pueden votar.,neutro_pregunta,neutro,0,0,21,sin_permiso
+448,@user_0448,por qué no todos pueden votar en esta encuesta...,queja,negativo,0,0,1,sin_permiso
+449,@user_0449,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,6,sin_permiso
+450,@user_0450,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,1,1,1049,abrir_voto_a_todos
+451,@user_0451,hay que tener correo institucional para votar #encuesta,explica_regla,neutro,0,0,8,sin_permiso
+452,@user_0452,yo pago inscripción y no puedo votar absurdo #encuesta,en_contra_restriccion,negativo,1,1,1119,abstencion
+453,@user_0453,sin verificación de identidad no hay voto #voto,explica_regla,neutro,1,1,1299,abstencion
+454,@user_0454,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,10,sin_permiso
+455,@user_0455,si dejan votar a cualquiera manipulan la encuesta!,a_favor_restriccion,positivo,1,0,954,a_favor_de_restringir
+456,@user_0456,intenté votar tres veces y me rechaza??,queja,negativo,0,0,2,sin_permiso
+457,@user_0457,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,12,sin_permiso
+458,@user_0458,hay que tener correo institucional para votar pls,explica_regla,neutro,1,0,520,abstencion
+459,@user_0459,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,15,sin_permiso
+460,@user_0460,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,0,760,a_favor_de_restringir
+461,@user_0461,llevo poco tiempo registrado y no me deja votar...,queja,negativo,0,0,14,sin_permiso
+462,@user_0462,la restricción de voto protege el resultado pls,a_favor_restriccion,positivo,0,0,16,sin_permiso
+463,@user_0463,quiero votar y la plataforma me bloquea,queja,negativo,0,0,6,sin_permiso
+464,@user_0464,llevo poco tiempo registrado y no me deja votar #encuesta,queja,negativo,0,0,5,sin_permiso
+465,@user_0465,hay una lista de quiénes sí votan,neutro_pregunta,neutro,1,1,587,abstencion
+466,@user_0466,quién sí puede votar entonces pls,neutro_pregunta,neutro,1,0,1175,a_favor_de_restringir
+467,@user_0467,todos los alumnos deberían poder votar #encuesta,en_contra_restriccion,negativo,1,1,671,abrir_voto_a_todos
+468,@user_0468,abrir el voto a todos haría más legítima la encuesta!,en_contra_restriccion,negativo,1,1,968,abrir_voto_a_todos
+469,@user_0469,si no todos pueden votar para qué preguntan #encuesta,en_contra_restriccion,negativo,0,0,1,sin_permiso
+470,@user_0470,alguien sabe por qué no todos pueden votar.,neutro_pregunta,neutro,1,1,539,abrir_voto_a_todos
+471,@user_0471,llevo poco tiempo registrado y no me deja votar.,queja,negativo,0,0,8,sin_permiso
+472,@user_0472,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,0,0,12,sin_permiso
+473,@user_0473,hay que tener correo institucional para votar.,explica_regla,neutro,1,1,1011,a_favor_de_restringir
+474,@user_0474,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,21,sin_permiso
+475,@user_0475,intenté votar tres veces y me rechaza #voto,queja,negativo,0,0,14,sin_permiso
+476,@user_0476,me sale error 403 al intentar votar,queja,negativo,0,0,8,sin_permiso
+477,@user_0477,si dejan votar a cualquiera manipulan la encuesta #voto,a_favor_restriccion,positivo,1,1,545,a_favor_de_restringir
+478,@user_0478,puedo recuperar el permiso de voto #voto,neutro_pregunta,neutro,1,1,935,abrir_voto_a_todos
+479,@user_0479,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,9,sin_permiso
+480,@user_0480,las cuentas nuevas no pueden votar por seguridad??,explica_regla,neutro,1,1,768,abrir_voto_a_todos
+481,@user_0481,intenté votar tres veces y me rechaza.,queja,negativo,0,0,23,sin_permiso
+482,@user_0482,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,9,sin_permiso
+483,@user_0483,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,1,sin_permiso
+484,@user_0484,intenté votar tres veces y me rechaza #voto,queja,negativo,0,0,8,sin_permiso
+485,@user_0485,quién sí puede votar entonces pls,neutro_pregunta,neutro,0,0,13,sin_permiso
+486,@user_0486,si eres sospechoso de bot no te dejan votar??,explica_regla,neutro,0,0,1,sin_permiso
+487,@user_0487,me sale error 403 al intentar votar,queja,negativo,0,0,10,sin_permiso
+488,@user_0488,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,1,1309,a_favor_de_restringir
+489,@user_0489,intenté votar tres veces y me rechaza,queja,negativo,0,0,31,sin_permiso
+490,@user_0490,si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,positivo,1,1,888,a_favor_de_restringir
+491,@user_0491,si eres sospechoso de bot no te dejan votar!,explica_regla,neutro,1,0,769,abrir_voto_a_todos
+492,@user_0492,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,1,1,1028,abstencion
+493,@user_0493,aparece el mensaje: no tienes permiso para votar??,queja,negativo,0,0,12,sin_permiso
+494,@user_0494,quiero votar y la plataforma me bloquea,queja,negativo,0,0,12,sin_permiso
+495,@user_0495,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,1,1,795,abstencion
+496,@user_0496,solo alumnos activos del semestre pueden votar #voto,explica_regla,neutro,0,0,1,sin_permiso
+497,@user_0497,la regla de no todos pueden votar discrimina #encuesta,en_contra_restriccion,negativo,0,0,12,sin_permiso
+498,@user_0498,puedo recuperar el permiso de voto #voto,neutro_pregunta,neutro,1,0,800,abstencion
+499,@user_0499,staff y alumnos verificados sí pueden votar.,explica_regla,neutro,1,1,466,abstencion
+500,@user_0500,puedo recuperar el permiso de voto pls,neutro_pregunta,neutro,1,1,550,abrir_voto_a_todos
+501,@user_0501,por qué no todos pueden votar en esta encuesta #encuesta,queja,negativo,0,0,1,sin_permiso
+502,@user_0502,quiero votar y la plataforma me bloquea.,queja,negativo,0,0,5,sin_permiso
+503,@user_0503,hay que tener correo institucional para votar #voto,explica_regla,neutro,0,0,17,sin_permiso
+504,@user_0504,las cuentas nuevas no pueden votar por seguridad pls,explica_regla,neutro,0,0,13,sin_permiso
+505,@user_0505,qué requisitos hay para poder votar.,neutro_pregunta,neutro,1,1,345,abstencion
+506,@user_0506,alguien sabe por qué no todos pueden votar??,neutro_pregunta,neutro,1,0,852,a_favor_de_restringir
+507,@user_0507,excluir gente del voto es antidemocrático.,en_contra_restriccion,negativo,1,1,832,abstencion
+508,@user_0508,no es justo que no todos puedan votar #voto,queja,negativo,0,0,11,sin_permiso
+509,@user_0509,quién sí puede votar entonces!,neutro_pregunta,neutro,0,0,17,sin_permiso
+510,@user_0510,si eres sospechoso de bot no te dejan votar??,explica_regla,neutro,0,0,9,sin_permiso
+511,@user_0511,sin verificación de identidad no hay voto??,explica_regla,neutro,0,0,1,sin_permiso
+512,@user_0512,concuerdo: no todos deben poder votar aquí pls,a_favor_restriccion,positivo,1,1,904,a_favor_de_restringir
+513,@user_0513,solo alumnos activos del semestre pueden votar.,explica_regla,neutro,1,1,674,abrir_voto_a_todos
+514,@user_0514,por qué no todos pueden votar en esta encuesta...,queja,negativo,0,0,9,sin_permiso
+515,@user_0515,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,10,sin_permiso
+516,@user_0516,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,19,sin_permiso
+517,@user_0517,no es justo que no todos puedan votar,queja,negativo,0,0,1,sin_permiso
+518,@user_0518,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,1,1,514,abrir_voto_a_todos
+519,@user_0519,el botón de votar está gris qué significa,neutro_pregunta,neutro,0,0,11,sin_permiso
+520,@user_0520,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,1,abstencion
+521,@user_0521,esto silencia a los de nuevo ingreso #voto,en_contra_restriccion,negativo,1,0,1209,abstencion
+522,@user_0522,hay una lista de quiénes sí votan #voto,neutro_pregunta,neutro,1,1,1194,abstencion
+523,@user_0523,quién sí puede votar entonces pls,neutro_pregunta,neutro,0,0,9,sin_permiso
+524,@user_0524,no es justo que no todos puedan votar #voto,queja,negativo,0,0,3,sin_permiso
+525,@user_0525,apoyo que solo voten cuentas verificadas #encuesta,a_favor_restriccion,positivo,1,1,945,abstencion
+526,@user_0526,dónde veo si mi cuenta puede votar...,neutro_pregunta,neutro,1,1,1215,abstencion
+527,@user_0527,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,13,sin_permiso
+528,@user_0528,quitar la restricción ya.,en_contra_restriccion,negativo,1,1,1276,abrir_voto_a_todos
+529,@user_0529,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,1,1,738,abstencion
+530,@user_0530,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,6,sin_permiso
+531,@user_0531,el botón de votar está gris qué significa...,neutro_pregunta,neutro,1,1,770,abstencion
+532,@user_0532,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,904,abrir_voto_a_todos
+533,@user_0533,aparece el mensaje: no tienes permiso para votar.,queja,negativo,0,0,8,sin_permiso
+534,@user_0534,esto silencia a los de nuevo ingreso...,en_contra_restriccion,negativo,0,0,13,sin_permiso
+535,@user_0535,hay que tener correo institucional para votar...,explica_regla,neutro,0,0,21,sin_permiso
+536,@user_0536,solo alumnos activos del semestre pueden votar #voto,explica_regla,neutro,1,1,779,a_favor_de_restringir
+537,@user_0537,quitar la restricción ya,en_contra_restriccion,negativo,1,0,854,abrir_voto_a_todos
+538,@user_0538,está bien que no todos puedan votar así evitan bots??,a_favor_restriccion,positivo,0,0,4,sin_permiso
+539,@user_0539,por qué no todos pueden votar en esta encuesta.,queja,negativo,0,0,5,sin_permiso
+540,@user_0540,me sale error 403 al intentar votar,queja,negativo,0,0,1,sin_permiso
+541,@user_0541,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,7,sin_permiso
+542,@user_0542,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,20,sin_permiso
+543,@user_0543,quitar la restricción ya...,en_contra_restriccion,negativo,0,0,15,sin_permiso
+544,@user_0544,todos los alumnos deberían poder votar #encuesta,en_contra_restriccion,negativo,0,0,6,sin_permiso
+545,@user_0545,el botón de votar está gris qué significa,neutro_pregunta,neutro,1,1,1112,abstencion
+546,@user_0546,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,1,1,520,abrir_voto_a_todos
+547,@user_0547,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,1,1,918,a_favor_de_restringir
+548,@user_0548,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,662,abrir_voto_a_todos
+549,@user_0549,quitar la restricción ya #voto,en_contra_restriccion,negativo,0,0,11,sin_permiso
+550,@user_0550,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,540,abstencion
+551,@user_0551,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,6,sin_permiso
+552,@user_0552,llevo poco tiempo registrado y no me deja votar...,queja,negativo,0,0,10,sin_permiso
+553,@user_0553,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,1,830,a_favor_de_restringir
+554,@user_0554,está bien que no todos puedan votar así evitan bots #encuesta,a_favor_restriccion,positivo,0,0,3,sin_permiso
+555,@user_0555,si no todos pueden votar para qué preguntan #encuesta,en_contra_restriccion,negativo,1,1,468,abrir_voto_a_todos
+556,@user_0556,sin filtro de voto gana quien tenga más bots #voto,a_favor_restriccion,positivo,1,1,479,a_favor_de_restringir
+557,@user_0557,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,1,0,625,abstencion
+558,@user_0558,el botón de votar está gris qué significa!,neutro_pregunta,neutro,0,0,24,sin_permiso
+559,@user_0559,dónde veo si mi cuenta puede votar #encuesta,neutro_pregunta,neutro,1,1,364,abrir_voto_a_todos
+560,@user_0560,intenté votar tres veces y me rechaza...,queja,negativo,0,0,12,sin_permiso
+561,@user_0561,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,1,sin_permiso
+562,@user_0562,moderación bloquea votos de cuentas recién creadas!,explica_regla,neutro,0,0,1,sin_permiso
+563,@user_0563,apoyo que solo voten cuentas verificadas,a_favor_restriccion,positivo,0,0,13,sin_permiso
+564,@user_0564,esto silencia a los de nuevo ingreso pls,en_contra_restriccion,negativo,1,1,824,abrir_voto_a_todos
+565,@user_0565,hay que tener correo institucional para votar!,explica_regla,neutro,1,1,568,abrir_voto_a_todos
+566,@user_0566,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,707,abstencion
+567,@user_0567,esto silencia a los de nuevo ingreso...,en_contra_restriccion,negativo,1,1,93,abstencion
+568,@user_0568,solo cuentas verificadas pueden votar pls,explica_regla,neutro,0,0,12,sin_permiso
+569,@user_0569,intenté votar tres veces y me rechaza...,queja,negativo,0,0,8,sin_permiso
+570,@user_0570,sin filtro de voto gana quien tenga más bots!,a_favor_restriccion,positivo,0,0,1,sin_permiso
+571,@user_0571,todos los alumnos deberían poder votar #voto,en_contra_restriccion,negativo,1,1,242,abrir_voto_a_todos
+572,@user_0572,dice que mi cuenta no tiene permiso para votar pls,queja,negativo,0,0,16,sin_permiso
+573,@user_0573,sin verificación de identidad no hay voto...,explica_regla,neutro,0,0,5,sin_permiso
+574,@user_0574,sin verificación de identidad no hay voto!,explica_regla,neutro,1,1,233,abrir_voto_a_todos
+575,@user_0575,excluir gente del voto es antidemocrático??,en_contra_restriccion,negativo,1,1,465,abrir_voto_a_todos
+576,@user_0576,para votar necesitas más de 30 días de antigüedad!,explica_regla,neutro,0,0,10,sin_permiso
+577,@user_0577,no es justo que no todos puedan votar pls,queja,negativo,0,0,12,sin_permiso
+578,@user_0578,intenté votar tres veces y me rechaza pls,queja,negativo,0,0,17,sin_permiso
+579,@user_0579,cuántos días de cuenta necesito para votar pls,neutro_pregunta,neutro,1,1,701,abstencion
+580,@user_0580,si dejan votar a cualquiera manipulan la encuesta!,a_favor_restriccion,positivo,1,1,1454,a_favor_de_restringir
+581,@user_0581,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,878,abstencion
+582,@user_0582,está bien que no todos puedan votar así evitan bots.,a_favor_restriccion,positivo,1,0,1258,a_favor_de_restringir
+583,@user_0583,la restricción de voto protege el resultado,a_favor_restriccion,positivo,1,1,346,a_favor_de_restringir
+584,@user_0584,esto silencia a los de nuevo ingreso...,en_contra_restriccion,negativo,0,0,12,sin_permiso
+585,@user_0585,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,21,sin_permiso
+586,@user_0586,concuerdo: no todos deben poder votar aquí.,a_favor_restriccion,positivo,1,1,566,abstencion
+587,@user_0587,quién sí puede votar entonces.,neutro_pregunta,neutro,0,0,1,sin_permiso
+588,@user_0588,hay una lista de quiénes sí votan,neutro_pregunta,neutro,1,1,303,a_favor_de_restringir
+589,@user_0589,para votar necesitas más de 30 días de antigüedad #encuesta,explica_regla,neutro,0,0,24,sin_permiso
+590,@user_0590,si dejan votar a cualquiera manipulan la encuesta...,a_favor_restriccion,positivo,1,0,851,a_favor_de_restringir
+591,@user_0591,todos los alumnos deberían poder votar #voto,en_contra_restriccion,negativo,1,1,186,abrir_voto_a_todos
+592,@user_0592,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,7,sin_permiso
+593,@user_0593,si dejan votar a cualquiera manipulan la encuesta...,a_favor_restriccion,positivo,1,1,556,a_favor_de_restringir
+594,@user_0594,limitar el voto es necesario en este foro...,a_favor_restriccion,positivo,1,0,603,a_favor_de_restringir
+595,@user_0595,abrir el voto a todos haría más legítima la encuesta #encuesta,en_contra_restriccion,negativo,1,1,127,abrir_voto_a_todos
+596,@user_0596,esto silencia a los de nuevo ingreso,en_contra_restriccion,negativo,0,0,1,sin_permiso
+597,@user_0597,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,1,482,abstencion
+598,@user_0598,soy alumno y aun asi no puedo emitir voto...,queja,negativo,0,0,17,sin_permiso
+599,@user_0599,el reglamento dice: no todos pueden votar!,explica_regla,neutro,0,0,8,sin_permiso
+600,@user_0600,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,0,0,10,sin_permiso
+601,@user_0601,quién sí puede votar entonces,neutro_pregunta,neutro,0,0,7,sin_permiso
+602,@user_0602,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,1,826,abstencion
+603,@user_0603,cuántos días de cuenta necesito para votar pls,neutro_pregunta,neutro,1,1,1462,abstencion
+604,@user_0604,el reglamento dice: no todos pueden votar...,explica_regla,neutro,1,1,1197,abstencion
+605,@user_0605,si eres sospechoso de bot no te dejan votar pls,explica_regla,neutro,0,0,3,sin_permiso
+606,@user_0606,yo pago inscripción y no puedo votar absurdo.,en_contra_restriccion,negativo,1,1,435,abrir_voto_a_todos
+607,@user_0607,limitar el voto es necesario en este foro!,a_favor_restriccion,positivo,1,1,948,a_favor_de_restringir
+608,@user_0608,por qué no todos pueden votar en esta encuesta.,queja,negativo,0,0,17,sin_permiso
+609,@user_0609,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,5,sin_permiso
+610,@user_0610,alguien sabe por qué no todos pueden votar...,neutro_pregunta,neutro,1,1,437,abstencion
+611,@user_0611,limitar el voto es necesario en este foro #encuesta,a_favor_restriccion,positivo,1,1,1,a_favor_de_restringir
+612,@user_0612,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,1,445,abstencion
+613,@user_0613,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,6,sin_permiso
+614,@user_0614,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,1,1,1182,abstencion
+615,@user_0615,me sale error 403 al intentar votar...,queja,negativo,0,0,9,sin_permiso
+616,@user_0616,sin filtro de voto gana quien tenga más bots!,a_favor_restriccion,positivo,1,1,657,a_favor_de_restringir
+617,@user_0617,si no todos pueden votar para qué preguntan #encuesta,en_contra_restriccion,negativo,1,1,768,abstencion
+618,@user_0618,moderación bloquea votos de cuentas recién creadas...,explica_regla,neutro,0,0,13,sin_permiso
+619,@user_0619,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,21,sin_permiso
+620,@user_0620,staff y alumnos verificados sí pueden votar,explica_regla,neutro,1,1,773,a_favor_de_restringir
+621,@user_0621,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,1,sin_permiso
+622,@user_0622,la restricción de voto protege el resultado.,a_favor_restriccion,positivo,0,0,7,sin_permiso
+623,@user_0623,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,1,343,abrir_voto_a_todos
+624,@user_0624,sin filtro de voto gana quien tenga más bots #encuesta,a_favor_restriccion,positivo,1,1,853,abstencion
+625,@user_0625,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,17,sin_permiso
+626,@user_0626,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,16,sin_permiso
+627,@user_0627,quiero votar y la plataforma me bloquea,queja,negativo,0,0,1,sin_permiso
+628,@user_0628,hay que tener correo institucional para votar pls,explica_regla,neutro,0,0,12,sin_permiso
+629,@user_0629,el reglamento dice: no todos pueden votar.,explica_regla,neutro,1,1,1160,abstencion
+630,@user_0630,si dejan votar a cualquiera manipulan la encuesta #voto,a_favor_restriccion,positivo,1,1,656,a_favor_de_restringir
+631,@user_0631,sin verificación de identidad no hay voto,explica_regla,neutro,1,1,1124,abrir_voto_a_todos
+632,@user_0632,aparece el mensaje: no tienes permiso para votar #voto,queja,negativo,0,0,7,sin_permiso
+633,@user_0633,puedo recuperar el permiso de voto #encuesta,neutro_pregunta,neutro,1,0,1174,abrir_voto_a_todos
+634,@user_0634,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,0,0,7,sin_permiso
+635,@user_0635,alguien sabe por qué no todos pueden votar pls,neutro_pregunta,neutro,0,0,1,sin_permiso
+636,@user_0636,solo cuentas verificadas pueden votar,explica_regla,neutro,1,1,941,a_favor_de_restringir
+637,@user_0637,para votar necesitas más de 30 días de antigüedad.,explica_regla,neutro,1,1,955,abstencion
+638,@user_0638,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,903,abstencion
+639,@user_0639,solo alumnos activos del semestre pueden votar,explica_regla,neutro,0,0,3,sin_permiso
+640,@user_0640,quitar la restricción ya pls,en_contra_restriccion,negativo,0,0,7,sin_permiso
+641,@user_0641,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,1016,abstencion
+642,@user_0642,moderación bloquea votos de cuentas recién creadas...,explica_regla,neutro,1,1,897,abrir_voto_a_todos
+643,@user_0643,excluir gente del voto es antidemocrático!,en_contra_restriccion,negativo,1,1,1181,abrir_voto_a_todos
+644,@user_0644,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,16,sin_permiso
+645,@user_0645,abrir el voto a todos haría más legítima la encuesta #voto,en_contra_restriccion,negativo,0,0,20,sin_permiso
+646,@user_0646,por qué no todos pueden votar en esta encuesta!,queja,negativo,0,0,5,sin_permiso
+647,@user_0647,aparece el mensaje: no tienes permiso para votar.,queja,negativo,0,0,1,sin_permiso
+648,@user_0648,moderación bloquea votos de cuentas recién creadas!,explica_regla,neutro,0,0,9,sin_permiso
+649,@user_0649,llevo poco tiempo registrado y no me deja votar??,queja,negativo,0,0,3,sin_permiso
+650,@user_0650,el reglamento dice: no todos pueden votar,explica_regla,neutro,0,0,10,sin_permiso
+651,@user_0651,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,317,a_favor_de_restringir
+652,@user_0652,las cuentas nuevas no pueden votar por seguridad pls,explica_regla,neutro,1,1,666,a_favor_de_restringir
+653,@user_0653,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,3,sin_permiso
+654,@user_0654,el botón de votar está gris qué significa...,neutro_pregunta,neutro,1,1,198,abstencion
+655,@user_0655,concuerdo: no todos deben poder votar aquí #encuesta,a_favor_restriccion,positivo,1,1,809,a_favor_de_restringir
+656,@user_0656,mejor pocos votos reales que mil votos falsos...,a_favor_restriccion,positivo,1,1,649,abstencion
+657,@user_0657,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,0,1030,a_favor_de_restringir
+658,@user_0658,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,1,1,1093,a_favor_de_restringir
+659,@user_0659,para votar necesitas más de 30 días de antigüedad!,explica_regla,neutro,1,1,1195,abrir_voto_a_todos
+660,@user_0660,me sale error 403 al intentar votar??,queja,negativo,0,0,20,sin_permiso
+661,@user_0661,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,4,sin_permiso
+662,@user_0662,apoyo que solo voten cuentas verificadas...,a_favor_restriccion,positivo,1,1,1066,abstencion
+663,@user_0663,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,1,sin_permiso
+664,@user_0664,intenté votar tres veces y me rechaza...,queja,negativo,0,0,11,sin_permiso
+665,@user_0665,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,21,sin_permiso
+666,@user_0666,si no todos pueden votar para qué preguntan,en_contra_restriccion,negativo,0,0,4,sin_permiso
+667,@user_0667,hay una lista de quiénes sí votan...,neutro_pregunta,neutro,1,0,811,a_favor_de_restringir
+668,@user_0668,no es justo que no todos puedan votar??,queja,negativo,0,0,1,sin_permiso
+669,@user_0669,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,0,0,12,sin_permiso
+670,@user_0670,dónde veo si mi cuenta puede votar!,neutro_pregunta,neutro,0,0,3,sin_permiso
+671,@user_0671,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,21,sin_permiso
+672,@user_0672,no es justo que no todos puedan votar,queja,negativo,0,0,4,sin_permiso
+673,@user_0673,no es justo que no todos puedan votar,queja,negativo,0,0,9,sin_permiso
+674,@user_0674,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,1,1,1554,abstencion
+675,@user_0675,alguien sabe por qué no todos pueden votar pls,neutro_pregunta,neutro,1,1,900,a_favor_de_restringir
+676,@user_0676,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,1,1,499,a_favor_de_restringir
+677,@user_0677,yo pago inscripción y no puedo votar absurdo!,en_contra_restriccion,negativo,0,0,1,sin_permiso
+678,@user_0678,yo pago inscripción y no puedo votar absurdo #encuesta,en_contra_restriccion,negativo,0,0,9,sin_permiso
+679,@user_0679,solo alumnos activos del semestre pueden votar...,explica_regla,neutro,1,1,124,a_favor_de_restringir
+680,@user_0680,staff y alumnos verificados sí pueden votar,explica_regla,neutro,1,1,1006,abrir_voto_a_todos
+681,@user_0681,apoyo que solo voten cuentas verificadas??,a_favor_restriccion,positivo,1,1,610,a_favor_de_restringir
+682,@user_0682,staff y alumnos verificados sí pueden votar #encuesta,explica_regla,neutro,0,0,22,sin_permiso
+683,@user_0683,quitar la restricción ya pls,en_contra_restriccion,negativo,1,0,696,abrir_voto_a_todos
+684,@user_0684,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,654,a_favor_de_restringir
+685,@user_0685,quién sí puede votar entonces??,neutro_pregunta,neutro,1,0,1052,abstencion
+686,@user_0686,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,1448,abstencion
+687,@user_0687,el reglamento dice: no todos pueden votar,explica_regla,neutro,1,1,949,abrir_voto_a_todos
+688,@user_0688,sin verificación de identidad no hay voto #voto,explica_regla,neutro,0,0,11,sin_permiso
+689,@user_0689,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,11,sin_permiso
+690,@user_0690,el reglamento dice: no todos pueden votar pls,explica_regla,neutro,1,1,824,abstencion
+691,@user_0691,staff y alumnos verificados sí pueden votar...,explica_regla,neutro,0,0,14,sin_permiso
+692,@user_0692,abrir el voto a todos haría más legítima la encuesta #encuesta,en_contra_restriccion,negativo,1,1,975,abrir_voto_a_todos
+693,@user_0693,apoyo que solo voten cuentas verificadas pls,a_favor_restriccion,positivo,1,1,658,a_favor_de_restringir
+694,@user_0694,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,949,a_favor_de_restringir
+695,@user_0695,mejor pocos votos reales que mil votos falsos #voto,a_favor_restriccion,positivo,1,0,1177,a_favor_de_restringir
+696,@user_0696,concuerdo: no todos deben poder votar aquí??,a_favor_restriccion,positivo,1,1,992,a_favor_de_restringir
+697,@user_0697,si eres sospechoso de bot no te dejan votar #voto,explica_regla,neutro,1,1,783,abstencion
+698,@user_0698,llevo poco tiempo registrado y no me deja votar!,queja,negativo,0,0,18,sin_permiso
+699,@user_0699,llevo poco tiempo registrado y no me deja votar.,queja,negativo,0,0,11,sin_permiso
+700,@user_0700,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,1,964,a_favor_de_restringir
+701,@user_0701,apoyo que solo voten cuentas verificadas!,a_favor_restriccion,positivo,1,0,660,a_favor_de_restringir
+702,@user_0702,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,0,0,10,sin_permiso
+703,@user_0703,me sale error 403 al intentar votar,queja,negativo,0,0,7,sin_permiso
+704,@user_0704,solo cuentas verificadas pueden votar,explica_regla,neutro,0,0,12,sin_permiso
+705,@user_0705,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,961,abstencion
+706,@user_0706,está bien que no todos puedan votar así evitan bots...,a_favor_restriccion,positivo,1,0,570,a_favor_de_restringir
+707,@user_0707,intenté votar tres veces y me rechaza,queja,negativo,0,0,11,sin_permiso
+708,@user_0708,moderación bloquea votos de cuentas recién creadas #voto,explica_regla,neutro,0,0,8,sin_permiso
+709,@user_0709,staff y alumnos verificados sí pueden votar #voto,explica_regla,neutro,1,1,511,a_favor_de_restringir
+710,@user_0710,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,0,0,10,sin_permiso
+711,@user_0711,si no todos pueden votar para qué preguntan #voto,en_contra_restriccion,negativo,1,1,641,abstencion
+712,@user_0712,solo cuentas verificadas pueden votar #encuesta,explica_regla,neutro,1,0,958,a_favor_de_restringir
+713,@user_0713,está bien que no todos puedan votar así evitan bots #voto,a_favor_restriccion,positivo,1,1,643,a_favor_de_restringir
+714,@user_0714,el reglamento dice: no todos pueden votar #encuesta,explica_regla,neutro,0,0,16,sin_permiso
+715,@user_0715,todos los alumnos deberían poder votar!,en_contra_restriccion,negativo,1,1,1322,abrir_voto_a_todos
+716,@user_0716,llevo poco tiempo registrado y no me deja votar??,queja,negativo,0,0,11,sin_permiso
+717,@user_0717,solo cuentas verificadas pueden votar #encuesta,explica_regla,neutro,1,1,587,abstencion
+718,@user_0718,si no todos pueden votar para qué preguntan...,en_contra_restriccion,negativo,0,0,1,sin_permiso
+719,@user_0719,solo alumnos activos del semestre pueden votar,explica_regla,neutro,1,1,714,abrir_voto_a_todos
+720,@user_0720,intenté votar tres veces y me rechaza...,queja,negativo,0,0,6,sin_permiso
+721,@user_0721,el reglamento dice: no todos pueden votar #encuesta,explica_regla,neutro,0,0,24,sin_permiso
+722,@user_0722,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,1,1,803,abstencion
+723,@user_0723,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,16,sin_permiso
+724,@user_0724,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,1,sin_permiso
+725,@user_0725,apoyo que solo voten cuentas verificadas pls,a_favor_restriccion,positivo,1,0,881,a_favor_de_restringir
+726,@user_0726,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,4,sin_permiso
+727,@user_0727,quién sí puede votar entonces #encuesta,neutro_pregunta,neutro,1,1,774,abstencion
+728,@user_0728,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,0,980,abstencion
+729,@user_0729,todos los alumnos deberían poder votar!,en_contra_restriccion,negativo,0,0,11,sin_permiso
+730,@user_0730,me sale error 403 al intentar votar,queja,negativo,0,0,13,sin_permiso
+731,@user_0731,la restricción de voto protege el resultado.,a_favor_restriccion,positivo,1,1,180,a_favor_de_restringir
+732,@user_0732,qué requisitos hay para poder votar,neutro_pregunta,neutro,0,0,14,sin_permiso
+733,@user_0733,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,12,sin_permiso
+734,@user_0734,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,23,sin_permiso
+735,@user_0735,quién sí puede votar entonces pls,neutro_pregunta,neutro,1,0,1210,abstencion
+736,@user_0736,si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,positivo,1,1,1030,a_favor_de_restringir
+737,@user_0737,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,747,abrir_voto_a_todos
+738,@user_0738,aparece el mensaje: no tienes permiso para votar??,queja,negativo,0,0,7,sin_permiso
+739,@user_0739,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,5,sin_permiso
+740,@user_0740,llevo poco tiempo registrado y no me deja votar #voto,queja,negativo,0,0,4,sin_permiso
+741,@user_0741,mejor pocos votos reales que mil votos falsos??,a_favor_restriccion,positivo,1,1,72,abstencion
+742,@user_0742,apoyo que solo voten cuentas verificadas...,a_favor_restriccion,positivo,1,1,388,a_favor_de_restringir
+743,@user_0743,yo pago inscripción y no puedo votar absurdo #voto,en_contra_restriccion,negativo,0,0,4,sin_permiso
+744,@user_0744,excluir gente del voto es antidemocrático #encuesta,en_contra_restriccion,negativo,1,0,1108,abrir_voto_a_todos
+745,@user_0745,hay que tener correo institucional para votar,explica_regla,neutro,0,0,1,sin_permiso
+746,@user_0746,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,2,sin_permiso
+747,@user_0747,apoyo que solo voten cuentas verificadas,a_favor_restriccion,positivo,1,1,603,abstencion
+748,@user_0748,las cuentas nuevas no pueden votar por seguridad pls,explica_regla,neutro,1,1,576,a_favor_de_restringir
+749,@user_0749,sin filtro de voto gana quien tenga más bots pls,a_favor_restriccion,positivo,1,0,1631,abstencion
+750,@user_0750,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,0,0,1,sin_permiso
+751,@user_0751,puedo recuperar el permiso de voto!,neutro_pregunta,neutro,1,1,910,abrir_voto_a_todos
+752,@user_0752,staff y alumnos verificados sí pueden votar??,explica_regla,neutro,1,1,950,abstencion
+753,@user_0753,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,392,a_favor_de_restringir
+754,@user_0754,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,1,1,1,abstencion
+755,@user_0755,aparece el mensaje: no tienes permiso para votar pls,queja,negativo,0,0,17,sin_permiso
+756,@user_0756,aparece el mensaje: no tienes permiso para votar.,queja,negativo,0,0,2,sin_permiso
+757,@user_0757,limitar el voto es necesario en este foro??,a_favor_restriccion,positivo,1,1,1048,a_favor_de_restringir
+758,@user_0758,me sale error 403 al intentar votar??,queja,negativo,0,0,12,sin_permiso
+759,@user_0759,yo pago inscripción y no puedo votar absurdo,en_contra_restriccion,negativo,0,0,32,sin_permiso
+760,@user_0760,dónde veo si mi cuenta puede votar??,neutro_pregunta,neutro,1,1,413,abstencion
+761,@user_0761,dónde veo si mi cuenta puede votar!,neutro_pregunta,neutro,1,0,1035,abrir_voto_a_todos
+762,@user_0762,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,311,a_favor_de_restringir
+763,@user_0763,limitar el voto es necesario en este foro...,a_favor_restriccion,positivo,1,1,826,a_favor_de_restringir
+764,@user_0764,mejor pocos votos reales que mil votos falsos #voto,a_favor_restriccion,positivo,1,1,1091,a_favor_de_restringir
+765,@user_0765,abrir el voto a todos haría más legítima la encuesta.,en_contra_restriccion,negativo,0,0,17,sin_permiso
+766,@user_0766,la restricción de voto protege el resultado,a_favor_restriccion,positivo,1,1,597,a_favor_de_restringir
+767,@user_0767,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,0,754,abrir_voto_a_todos
+768,@user_0768,quiero votar y la plataforma me bloquea pls,queja,negativo,0,0,14,sin_permiso
+769,@user_0769,sin verificación de identidad no hay voto #encuesta,explica_regla,neutro,0,0,27,sin_permiso
+770,@user_0770,excluir gente del voto es antidemocrático...,en_contra_restriccion,negativo,0,0,1,sin_permiso
+771,@user_0771,esto silencia a los de nuevo ingreso.,en_contra_restriccion,negativo,1,1,883,abstencion
+772,@user_0772,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,0,0,8,sin_permiso
+773,@user_0773,excluir gente del voto es antidemocrático??,en_contra_restriccion,negativo,1,0,568,abstencion
+774,@user_0774,soy alumno y aun asi no puedo emitir voto #encuesta,queja,negativo,0,0,1,sin_permiso
+775,@user_0775,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,16,sin_permiso
+776,@user_0776,esto silencia a los de nuevo ingreso,en_contra_restriccion,negativo,0,0,15,sin_permiso
+777,@user_0777,solo cuentas verificadas pueden votar!,explica_regla,neutro,0,0,1,sin_permiso
+778,@user_0778,para votar necesitas más de 30 días de antigüedad.,explica_regla,neutro,1,1,735,abstencion
+779,@user_0779,concuerdo: no todos deben poder votar aquí??,a_favor_restriccion,positivo,1,1,1064,abstencion
+780,@user_0780,puedo recuperar el permiso de voto!,neutro_pregunta,neutro,1,1,903,abstencion
+781,@user_0781,todos los alumnos deberían poder votar #voto,en_contra_restriccion,negativo,1,1,382,abrir_voto_a_todos
+782,@user_0782,yo pago inscripción y no puedo votar absurdo pls,en_contra_restriccion,negativo,1,1,1297,abstencion
+783,@user_0783,moderación bloquea votos de cuentas recién creadas.,explica_regla,neutro,1,1,1188,abstencion
+784,@user_0784,no es justo que no todos puedan votar??,queja,negativo,0,0,12,sin_permiso
+785,@user_0785,por qué no todos pueden votar en esta encuesta.,queja,negativo,0,0,11,sin_permiso
+786,@user_0786,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,14,sin_permiso
+787,@user_0787,dice que mi cuenta no tiene permiso para votar!,queja,negativo,0,0,17,sin_permiso
+788,@user_0788,yo pago inscripción y no puedo votar absurdo.,en_contra_restriccion,negativo,1,0,752,abrir_voto_a_todos
+789,@user_0789,aparece el mensaje: no tienes permiso para votar #voto,queja,negativo,0,0,1,sin_permiso
+790,@user_0790,no es justo que no todos puedan votar.,queja,negativo,0,0,14,sin_permiso
+791,@user_0791,limitar el voto es necesario en este foro!,a_favor_restriccion,positivo,1,1,626,a_favor_de_restringir
+792,@user_0792,solo alumnos activos del semestre pueden votar #encuesta,explica_regla,neutro,0,0,1,sin_permiso
+793,@user_0793,quitar la restricción ya...,en_contra_restriccion,negativo,0,0,9,sin_permiso
+794,@user_0794,sin verificación de identidad no hay voto pls,explica_regla,neutro,1,0,353,abstencion
+795,@user_0795,mejor pocos votos reales que mil votos falsos??,a_favor_restriccion,positivo,1,1,922,abstencion
+796,@user_0796,si dejan votar a cualquiera manipulan la encuesta.,a_favor_restriccion,positivo,1,1,1265,a_favor_de_restringir
+797,@user_0797,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,1,554,abstencion
+798,@user_0798,apoyo que solo voten cuentas verificadas pls,a_favor_restriccion,positivo,1,1,1278,a_favor_de_restringir
+799,@user_0799,solo alumnos activos del semestre pueden votar??,explica_regla,neutro,1,1,953,abstencion
+800,@user_0800,el reglamento dice: no todos pueden votar??,explica_regla,neutro,0,0,8,sin_permiso
+801,@user_0801,dónde veo si mi cuenta puede votar pls,neutro_pregunta,neutro,1,0,1040,abrir_voto_a_todos
+802,@user_0802,apoyo que solo voten cuentas verificadas...,a_favor_restriccion,positivo,1,1,628,a_favor_de_restringir
+803,@user_0803,quiero votar y la plataforma me bloquea!,queja,negativo,0,0,15,sin_permiso
+804,@user_0804,yo pago inscripción y no puedo votar absurdo pls,en_contra_restriccion,negativo,1,0,835,abrir_voto_a_todos
+805,@user_0805,la restricción de voto protege el resultado.,a_favor_restriccion,positivo,1,0,1187,a_favor_de_restringir
+806,@user_0806,no es justo que no todos puedan votar!,queja,negativo,0,0,21,sin_permiso
+807,@user_0807,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,15,sin_permiso
+808,@user_0808,el botón de votar está gris qué significa pls,neutro_pregunta,neutro,1,0,714,abstencion
+809,@user_0809,las cuentas nuevas no pueden votar por seguridad #encuesta,explica_regla,neutro,0,0,3,sin_permiso
+810,@user_0810,alguien sabe por qué no todos pueden votar.,neutro_pregunta,neutro,1,1,845,abstencion
+811,@user_0811,dónde veo si mi cuenta puede votar #encuesta,neutro_pregunta,neutro,1,1,1422,abstencion
+812,@user_0812,si dejan votar a cualquiera manipulan la encuesta #voto,a_favor_restriccion,positivo,1,1,673,a_favor_de_restringir
+813,@user_0813,el botón de votar está gris qué significa...,neutro_pregunta,neutro,1,1,366,abrir_voto_a_todos
+814,@user_0814,hay que tener correo institucional para votar,explica_regla,neutro,1,1,938,abstencion
+815,@user_0815,qué requisitos hay para poder votar.,neutro_pregunta,neutro,0,0,10,sin_permiso
+816,@user_0816,staff y alumnos verificados sí pueden votar #voto,explica_regla,neutro,1,1,588,abstencion
+817,@user_0817,por qué no todos pueden votar en esta encuesta,queja,negativo,0,0,9,sin_permiso
+818,@user_0818,si no todos pueden votar la encuesta no es válida.,queja,negativo,0,0,12,sin_permiso
+819,@user_0819,excluir gente del voto es antidemocrático #encuesta,en_contra_restriccion,negativo,0,0,1,sin_permiso
+820,@user_0820,me sale error 403 al intentar votar.,queja,negativo,0,0,13,sin_permiso
+821,@user_0821,hay una lista de quiénes sí votan pls,neutro_pregunta,neutro,0,0,13,sin_permiso
+822,@user_0822,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,1,1,952,abstencion
+823,@user_0823,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,1,sin_permiso
+824,@user_0824,por qué no todos pueden votar en esta encuesta!,queja,negativo,0,0,9,sin_permiso
+825,@user_0825,excluir gente del voto es antidemocrático??,en_contra_restriccion,negativo,1,1,560,abrir_voto_a_todos
+826,@user_0826,sin filtro de voto gana quien tenga más bots #encuesta,a_favor_restriccion,positivo,1,1,1398,abstencion
+827,@user_0827,quién sí puede votar entonces,neutro_pregunta,neutro,0,0,4,sin_permiso
+828,@user_0828,solo alumnos activos del semestre pueden votar!,explica_regla,neutro,0,0,23,sin_permiso
+829,@user_0829,no es justo que no todos puedan votar #voto,queja,negativo,0,0,1,sin_permiso
+830,@user_0830,las cuentas nuevas no pueden votar por seguridad #voto,explica_regla,neutro,0,0,6,sin_permiso
+831,@user_0831,dice que mi cuenta no tiene permiso para votar!,queja,negativo,0,0,3,sin_permiso
+832,@user_0832,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,13,sin_permiso
+833,@user_0833,por qué no todos pueden votar en esta encuesta!,queja,negativo,0,0,18,sin_permiso
+834,@user_0834,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,20,sin_permiso
+835,@user_0835,yo pago inscripción y no puedo votar absurdo!,en_contra_restriccion,negativo,1,1,545,abrir_voto_a_todos
+836,@user_0836,todos los alumnos deberían poder votar!,en_contra_restriccion,negativo,0,0,6,sin_permiso
+837,@user_0837,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,22,sin_permiso
+838,@user_0838,me sale error 403 al intentar votar...,queja,negativo,0,0,22,sin_permiso
+839,@user_0839,el reglamento dice: no todos pueden votar,explica_regla,neutro,0,0,13,sin_permiso
+840,@user_0840,sin filtro de voto gana quien tenga más bots??,a_favor_restriccion,positivo,1,1,1037,a_favor_de_restringir
+841,@user_0841,abrir el voto a todos haría más legítima la encuesta??,en_contra_restriccion,negativo,1,1,418,abrir_voto_a_todos
+842,@user_0842,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,25,sin_permiso
+843,@user_0843,quitar la restricción ya #encuesta,en_contra_restriccion,negativo,0,0,12,sin_permiso
+844,@user_0844,me sale error 403 al intentar votar.,queja,negativo,0,0,5,sin_permiso
+845,@user_0845,moderación bloquea votos de cuentas recién creadas #encuesta,explica_regla,neutro,1,1,1308,abstencion
+846,@user_0846,sin filtro de voto gana quien tenga más bots??,a_favor_restriccion,positivo,1,1,120,a_favor_de_restringir
+847,@user_0847,esto silencia a los de nuevo ingreso,en_contra_restriccion,negativo,0,0,4,sin_permiso
+848,@user_0848,hay una lista de quiénes sí votan #voto,neutro_pregunta,neutro,0,0,12,sin_permiso
+849,@user_0849,intenté votar tres veces y me rechaza??,queja,negativo,0,0,12,sin_permiso
+850,@user_0850,todos los alumnos deberían poder votar #encuesta,en_contra_restriccion,negativo,1,1,701,abstencion
+851,@user_0851,qué requisitos hay para poder votar.,neutro_pregunta,neutro,0,0,7,sin_permiso
+852,@user_0852,la regla de no todos pueden votar discrimina #encuesta,en_contra_restriccion,negativo,1,1,1367,abrir_voto_a_todos
+853,@user_0853,quién sí puede votar entonces...,neutro_pregunta,neutro,1,0,432,a_favor_de_restringir
+854,@user_0854,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,19,sin_permiso
+855,@user_0855,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,0,0,1,sin_permiso
+856,@user_0856,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,1,1,1047,a_favor_de_restringir
+857,@user_0857,intenté votar tres veces y me rechaza #voto,queja,negativo,0,0,10,sin_permiso
+858,@user_0858,está bien que no todos puedan votar así evitan bots #encuesta,a_favor_restriccion,positivo,1,1,676,abstencion
+859,@user_0859,hay que tener correo institucional para votar #encuesta,explica_regla,neutro,0,0,28,sin_permiso
+860,@user_0860,moderación bloquea votos de cuentas recién creadas,explica_regla,neutro,0,0,5,sin_permiso
+861,@user_0861,excluir gente del voto es antidemocrático!,en_contra_restriccion,negativo,0,0,5,sin_permiso
+862,@user_0862,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,1,sin_permiso
+863,@user_0863,hay que tener correo institucional para votar,explica_regla,neutro,0,0,6,sin_permiso
+864,@user_0864,las cuentas nuevas no pueden votar por seguridad,explica_regla,neutro,1,1,576,abstencion
+865,@user_0865,hay una lista de quiénes sí votan pls,neutro_pregunta,neutro,0,0,13,sin_permiso
+866,@user_0866,esto silencia a los de nuevo ingreso #encuesta,en_contra_restriccion,negativo,1,1,886,abrir_voto_a_todos
+867,@user_0867,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,21,sin_permiso
+868,@user_0868,la regla de no todos pueden votar discrimina??,en_contra_restriccion,negativo,1,1,1000,abrir_voto_a_todos
+869,@user_0869,mejor pocos votos reales que mil votos falsos...,a_favor_restriccion,positivo,1,1,551,a_favor_de_restringir
+870,@user_0870,dice que mi cuenta no tiene permiso para votar!,queja,negativo,0,0,2,sin_permiso
+871,@user_0871,dónde veo si mi cuenta puede votar!,neutro_pregunta,neutro,0,0,24,sin_permiso
+872,@user_0872,si no todos pueden votar para qué preguntan #voto,en_contra_restriccion,negativo,0,0,7,sin_permiso
+873,@user_0873,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,3,sin_permiso
+874,@user_0874,cuántos días de cuenta necesito para votar #encuesta,neutro_pregunta,neutro,1,1,1401,abstencion
+875,@user_0875,para votar necesitas más de 30 días de antigüedad.,explica_regla,neutro,0,0,17,sin_permiso
+876,@user_0876,solo alumnos activos del semestre pueden votar #encuesta,explica_regla,neutro,1,0,671,a_favor_de_restringir
+877,@user_0877,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,1079,a_favor_de_restringir
+878,@user_0878,si eres sospechoso de bot no te dejan votar!,explica_regla,neutro,0,0,23,sin_permiso
+879,@user_0879,limitar el voto es necesario en este foro.,a_favor_restriccion,positivo,1,0,683,a_favor_de_restringir
+880,@user_0880,sin filtro de voto gana quien tenga más bots!,a_favor_restriccion,positivo,1,1,135,a_favor_de_restringir
+881,@user_0881,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,0,0,15,sin_permiso
+882,@user_0882,sin filtro de voto gana quien tenga más bots!,a_favor_restriccion,positivo,1,1,836,a_favor_de_restringir
+883,@user_0883,mejor pocos votos reales que mil votos falsos pls,a_favor_restriccion,positivo,1,1,409,a_favor_de_restringir
+884,@user_0884,la restricción de voto protege el resultado #voto,a_favor_restriccion,positivo,1,0,888,abstencion
+885,@user_0885,quién sí puede votar entonces,neutro_pregunta,neutro,0,0,8,sin_permiso
+886,@user_0886,quiero votar y la plataforma me bloquea!,queja,negativo,0,0,19,sin_permiso
+887,@user_0887,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,783,a_favor_de_restringir
+888,@user_0888,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,2,sin_permiso
+889,@user_0889,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,155,a_favor_de_restringir
+890,@user_0890,si eres sospechoso de bot no te dejan votar pls,explica_regla,neutro,0,0,7,sin_permiso
+891,@user_0891,quién sí puede votar entonces.,neutro_pregunta,neutro,1,0,768,abstencion
+892,@user_0892,todos los alumnos deberían poder votar #voto,en_contra_restriccion,negativo,1,1,1090,abstencion
+893,@user_0893,para votar necesitas más de 30 días de antigüedad pls,explica_regla,neutro,0,0,12,sin_permiso
+894,@user_0894,solo cuentas verificadas pueden votar #encuesta,explica_regla,neutro,1,0,360,abstencion
+895,@user_0895,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,0,986,abrir_voto_a_todos
+896,@user_0896,apoyo que solo voten cuentas verificadas!,a_favor_restriccion,positivo,1,0,715,a_favor_de_restringir
+897,@user_0897,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,1,1155,abstencion
+898,@user_0898,me sale error 403 al intentar votar,queja,negativo,0,0,1,sin_permiso
+899,@user_0899,puedo recuperar el permiso de voto??,neutro_pregunta,neutro,0,0,21,sin_permiso
+900,@user_0900,concuerdo: no todos deben poder votar aquí!,a_favor_restriccion,positivo,1,1,1141,a_favor_de_restringir
+901,@user_0901,esto silencia a los de nuevo ingreso??,en_contra_restriccion,negativo,0,0,18,sin_permiso
+902,@user_0902,dónde veo si mi cuenta puede votar #voto,neutro_pregunta,neutro,1,1,683,abrir_voto_a_todos
+903,@user_0903,me sale error 403 al intentar votar,queja,negativo,0,0,27,sin_permiso
+904,@user_0904,soy alumno y aun asi no puedo emitir voto...,queja,negativo,0,0,1,sin_permiso
+905,@user_0905,sin filtro de voto gana quien tenga más bots??,a_favor_restriccion,positivo,1,1,908,a_favor_de_restringir
+906,@user_0906,excluir gente del voto es antidemocrático!,en_contra_restriccion,negativo,0,0,12,sin_permiso
+907,@user_0907,staff y alumnos verificados sí pueden votar,explica_regla,neutro,0,0,1,sin_permiso
+908,@user_0908,yo pago inscripción y no puedo votar absurdo...,en_contra_restriccion,negativo,1,1,1198,abrir_voto_a_todos
+909,@user_0909,moderación bloquea votos de cuentas recién creadas??,explica_regla,neutro,1,0,603,abstencion
+910,@user_0910,intenté votar tres veces y me rechaza!,queja,negativo,0,0,7,sin_permiso
+911,@user_0911,si dejan votar a cualquiera manipulan la encuesta pls,a_favor_restriccion,positivo,1,1,496,a_favor_de_restringir
+912,@user_0912,quitar la restricción ya??,en_contra_restriccion,negativo,1,1,921,abrir_voto_a_todos
+913,@user_0913,excluir gente del voto es antidemocrático!,en_contra_restriccion,negativo,0,0,2,sin_permiso
+914,@user_0914,aparece el mensaje: no tienes permiso para votar #encuesta,queja,negativo,0,0,12,sin_permiso
+915,@user_0915,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,17,sin_permiso
+916,@user_0916,la restricción de voto protege el resultado,a_favor_restriccion,positivo,1,1,227,abstencion
+917,@user_0917,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,1,sin_permiso
+918,@user_0918,si no todos pueden votar la encuesta no es válida??,queja,negativo,0,0,20,sin_permiso
+919,@user_0919,sin filtro de voto gana quien tenga más bots #voto,a_favor_restriccion,positivo,1,1,879,a_favor_de_restringir
+920,@user_0920,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,20,sin_permiso
+921,@user_0921,quién sí puede votar entonces??,neutro_pregunta,neutro,1,1,666,abstencion
+922,@user_0922,staff y alumnos verificados sí pueden votar #voto,explica_regla,neutro,0,0,3,sin_permiso
+923,@user_0923,todos los alumnos deberían poder votar #encuesta,en_contra_restriccion,negativo,0,0,5,sin_permiso
+924,@user_0924,no es justo que no todos puedan votar!,queja,negativo,0,0,11,sin_permiso
+925,@user_0925,por qué no todos pueden votar en esta encuesta...,queja,negativo,0,0,13,sin_permiso
+926,@user_0926,soy alumno y aun asi no puedo emitir voto...,queja,negativo,0,0,21,sin_permiso
+927,@user_0927,solo alumnos activos del semestre pueden votar #voto,explica_regla,neutro,1,1,635,abstencion
+928,@user_0928,el botón de votar está gris qué significa,neutro_pregunta,neutro,1,1,604,abrir_voto_a_todos
+929,@user_0929,moderación bloquea votos de cuentas recién creadas,explica_regla,neutro,1,1,537,abstencion
+930,@user_0930,abrir el voto a todos haría más legítima la encuesta??,en_contra_restriccion,negativo,1,1,612,abstencion
+931,@user_0931,para votar necesitas más de 30 días de antigüedad #voto,explica_regla,neutro,0,0,18,sin_permiso
+932,@user_0932,todos los alumnos deberían poder votar!,en_contra_restriccion,negativo,1,1,490,abrir_voto_a_todos
+933,@user_0933,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,8,sin_permiso
+934,@user_0934,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,3,sin_permiso
+935,@user_0935,qué requisitos hay para poder votar,neutro_pregunta,neutro,0,0,19,sin_permiso
+936,@user_0936,si eres sospechoso de bot no te dejan votar??,explica_regla,neutro,0,0,7,sin_permiso
+937,@user_0937,si dejan votar a cualquiera manipulan la encuesta #voto,a_favor_restriccion,positivo,1,1,368,a_favor_de_restringir
+938,@user_0938,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,0,1043,a_favor_de_restringir
+939,@user_0939,yo pago inscripción y no puedo votar absurdo pls,en_contra_restriccion,negativo,1,1,357,abrir_voto_a_todos
+940,@user_0940,intenté votar tres veces y me rechaza.,queja,negativo,0,0,1,sin_permiso
+941,@user_0941,el reglamento dice: no todos pueden votar??,explica_regla,neutro,0,0,7,sin_permiso
+942,@user_0942,quitar la restricción ya!,en_contra_restriccion,negativo,1,1,1495,abrir_voto_a_todos
+943,@user_0943,intenté votar tres veces y me rechaza??,queja,negativo,0,0,16,sin_permiso
+944,@user_0944,por qué no todos pueden votar en esta encuesta!,queja,negativo,0,0,3,sin_permiso
+945,@user_0945,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,0,1205,abrir_voto_a_todos
+946,@user_0946,esto silencia a los de nuevo ingreso??,en_contra_restriccion,negativo,0,0,2,sin_permiso
+947,@user_0947,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,1,458,abstencion
+948,@user_0948,quitar la restricción ya,en_contra_restriccion,negativo,0,0,12,sin_permiso
+949,@user_0949,cuántos días de cuenta necesito para votar #voto,neutro_pregunta,neutro,0,0,13,sin_permiso
+950,@user_0950,quién sí puede votar entonces.,neutro_pregunta,neutro,1,1,1227,abstencion
+951,@user_0951,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,20,sin_permiso
+952,@user_0952,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,17,sin_permiso
+953,@user_0953,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,1,sin_permiso
+954,@user_0954,quién sí puede votar entonces...,neutro_pregunta,neutro,1,0,739,abstencion
+955,@user_0955,todos los alumnos deberían poder votar.,en_contra_restriccion,negativo,1,0,484,abrir_voto_a_todos
+956,@user_0956,staff y alumnos verificados sí pueden votar pls,explica_regla,neutro,0,0,12,sin_permiso
+957,@user_0957,cuántos días de cuenta necesito para votar.,neutro_pregunta,neutro,1,1,611,abrir_voto_a_todos
+958,@user_0958,soy alumno y aun asi no puedo emitir voto!,queja,negativo,0,0,9,sin_permiso
+959,@user_0959,dice que mi cuenta no tiene permiso para votar pls,queja,negativo,0,0,19,sin_permiso
+960,@user_0960,si eres sospechoso de bot no te dejan votar.,explica_regla,neutro,0,0,24,sin_permiso
+961,@user_0961,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,9,sin_permiso
+962,@user_0962,hay que tener correo institucional para votar!,explica_regla,neutro,1,1,992,a_favor_de_restringir
+963,@user_0963,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,1,0,1374,abrir_voto_a_todos
+964,@user_0964,hay que tener correo institucional para votar!,explica_regla,neutro,1,1,415,a_favor_de_restringir
+965,@user_0965,el botón de votar está gris qué significa pls,neutro_pregunta,neutro,0,0,1,sin_permiso
+966,@user_0966,yo pago inscripción y no puedo votar absurdo.,en_contra_restriccion,negativo,1,1,1045,abrir_voto_a_todos
+967,@user_0967,si no todos pueden votar para qué preguntan pls,en_contra_restriccion,negativo,0,0,11,sin_permiso
+968,@user_0968,solo cuentas verificadas pueden votar,explica_regla,neutro,1,1,924,abstencion
+969,@user_0969,si no todos pueden votar la encuesta no es válida pls,queja,negativo,0,0,5,sin_permiso
+970,@user_0970,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,13,sin_permiso
+971,@user_0971,quién sí puede votar entonces...,neutro_pregunta,neutro,0,0,14,sin_permiso
+972,@user_0972,sin verificación de identidad no hay voto,explica_regla,neutro,1,1,786,abstencion
+973,@user_0973,aparece el mensaje: no tienes permiso para votar??,queja,negativo,0,0,14,sin_permiso
+974,@user_0974,las cuentas nuevas no pueden votar por seguridad...,explica_regla,neutro,0,0,14,sin_permiso
+975,@user_0975,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,1,1,250,abrir_voto_a_todos
+976,@user_0976,dónde veo si mi cuenta puede votar #encuesta,neutro_pregunta,neutro,1,1,776,a_favor_de_restringir
+977,@user_0977,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,0,0,1,sin_permiso
+978,@user_0978,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,1,1111,a_favor_de_restringir
+979,@user_0979,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,1,869,abstencion
+980,@user_0980,si eres sospechoso de bot no te dejan votar pls,explica_regla,neutro,0,0,20,sin_permiso
+981,@user_0981,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,0,367,a_favor_de_restringir
+982,@user_0982,excluir gente del voto es antidemocrático...,en_contra_restriccion,negativo,0,0,9,sin_permiso
+983,@user_0983,limitar el voto es necesario en este foro.,a_favor_restriccion,positivo,1,1,496,abstencion
+984,@user_0984,dice que mi cuenta no tiene permiso para votar!,queja,negativo,0,0,6,sin_permiso
+985,@user_0985,hay una lista de quiénes sí votan,neutro_pregunta,neutro,1,1,735,abstencion
+986,@user_0986,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,1,1,1103,a_favor_de_restringir
+987,@user_0987,solo cuentas verificadas pueden votar,explica_regla,neutro,0,0,14,sin_permiso
+988,@user_0988,esto silencia a los de nuevo ingreso...,en_contra_restriccion,negativo,1,1,1152,abrir_voto_a_todos
+989,@user_0989,intenté votar tres veces y me rechaza #encuesta,queja,negativo,0,0,13,sin_permiso
+990,@user_0990,la restricción de voto protege el resultado,a_favor_restriccion,positivo,1,1,994,a_favor_de_restringir
+991,@user_0991,quitar la restricción ya #voto,en_contra_restriccion,negativo,1,1,477,abrir_voto_a_todos
+992,@user_0992,intenté votar tres veces y me rechaza!,queja,negativo,0,0,6,sin_permiso
+993,@user_0993,excluir gente del voto es antidemocrático #voto,en_contra_restriccion,negativo,0,0,3,sin_permiso
+994,@user_0994,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,0,0,11,sin_permiso
+995,@user_0995,si eres sospechoso de bot no te dejan votar!,explica_regla,neutro,0,0,26,sin_permiso
+996,@user_0996,para votar necesitas más de 30 días de antigüedad #voto,explica_regla,neutro,0,0,6,sin_permiso
+997,@user_0997,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,0,0,19,sin_permiso
+998,@user_0998,qué requisitos hay para poder votar!,neutro_pregunta,neutro,0,0,14,sin_permiso
+999,@user_0999,está bien que no todos puedan votar así evitan bots pls,a_favor_restriccion,positivo,1,1,1039,a_favor_de_restringir
+1000,@user_1000,hay que tener correo institucional para votar.,explica_regla,neutro,1,1,1280,abstencion
+1001,@user_1001,staff y alumnos verificados sí pueden votar pls,explica_regla,neutro,0,0,15,sin_permiso
+1002,@user_1002,mejor pocos votos reales que mil votos falsos #voto,a_favor_restriccion,positivo,1,1,993,a_favor_de_restringir
+1003,@user_1003,el reglamento dice: no todos pueden votar #encuesta,explica_regla,neutro,0,0,11,sin_permiso
+1004,@user_1004,quiero votar y la plataforma me bloquea,queja,negativo,0,0,13,sin_permiso
+1005,@user_1005,moderación bloquea votos de cuentas recién creadas,explica_regla,neutro,1,1,52,abstencion
+1006,@user_1006,quitar la restricción ya,en_contra_restriccion,negativo,1,1,1093,abrir_voto_a_todos
+1007,@user_1007,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,723,abstencion
+1008,@user_1008,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,1200,a_favor_de_restringir
+1009,@user_1009,dice que mi cuenta no tiene permiso para votar.,queja,negativo,0,0,22,sin_permiso
+1010,@user_1010,si no todos pueden votar para qué preguntan #voto,en_contra_restriccion,negativo,0,0,12,sin_permiso
+1011,@user_1011,para votar necesitas más de 30 días de antigüedad pls,explica_regla,neutro,0,0,12,sin_permiso
+1012,@user_1012,si no todos pueden votar la encuesta no es válida,queja,negativo,0,0,16,sin_permiso
+1013,@user_1013,sin verificación de identidad no hay voto #encuesta,explica_regla,neutro,0,0,21,sin_permiso
+1014,@user_1014,quiero votar y la plataforma me bloquea #voto,queja,negativo,0,0,20,sin_permiso
+1015,@user_1015,quiero votar y la plataforma me bloquea,queja,negativo,0,0,19,sin_permiso
+1016,@user_1016,la restricción de voto protege el resultado...,a_favor_restriccion,positivo,1,1,557,abstencion
+1017,@user_1017,si no todos pueden votar para qué preguntan pls,en_contra_restriccion,negativo,0,0,1,sin_permiso
+1018,@user_1018,el botón de votar está gris qué significa,neutro_pregunta,neutro,1,0,1586,abstencion
+1019,@user_1019,dónde veo si mi cuenta puede votar #encuesta,neutro_pregunta,neutro,0,0,6,sin_permiso
+1020,@user_1020,la restricción de voto protege el resultado.,a_favor_restriccion,positivo,1,0,921,a_favor_de_restringir
+1021,@user_1021,sin filtro de voto gana quien tenga más bots...,a_favor_restriccion,positivo,1,0,682,a_favor_de_restringir
+1022,@user_1022,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,0,871,a_favor_de_restringir
+1023,@user_1023,intenté votar tres veces y me rechaza #voto,queja,negativo,0,0,3,sin_permiso
+1024,@user_1024,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,0,0,9,sin_permiso
+1025,@user_1025,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,24,sin_permiso
+1026,@user_1026,hay una lista de quiénes sí votan #voto,neutro_pregunta,neutro,0,0,1,sin_permiso
+1027,@user_1027,quién sí puede votar entonces...,neutro_pregunta,neutro,1,1,1100,a_favor_de_restringir
+1028,@user_1028,moderación bloquea votos de cuentas recién creadas...,explica_regla,neutro,1,0,1072,abstencion
+1029,@user_1029,todos los alumnos deberían poder votar...,en_contra_restriccion,negativo,0,0,2,sin_permiso
+1030,@user_1030,no es justo que no todos puedan votar pls,queja,negativo,0,0,1,sin_permiso
+1031,@user_1031,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,1,1,961,abstencion
+1032,@user_1032,no es justo que no todos puedan votar...,queja,negativo,0,0,7,sin_permiso
+1033,@user_1033,qué requisitos hay para poder votar,neutro_pregunta,neutro,1,1,178,abstencion
+1034,@user_1034,sin verificación de identidad no hay voto #voto,explica_regla,neutro,1,1,1057,abstencion
+1035,@user_1035,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,1,892,abstencion
+1036,@user_1036,quiero votar y la plataforma me bloquea #voto,queja,negativo,0,0,16,sin_permiso
+1037,@user_1037,limitar el voto es necesario en este foro #voto,a_favor_restriccion,positivo,1,1,766,a_favor_de_restringir
+1038,@user_1038,está bien que no todos puedan votar así evitan bots pls,a_favor_restriccion,positivo,1,0,910,abstencion
+1039,@user_1039,si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,positivo,1,1,330,a_favor_de_restringir
+1040,@user_1040,puedo recuperar el permiso de voto.,neutro_pregunta,neutro,0,0,16,sin_permiso
+1041,@user_1041,aparece el mensaje: no tienes permiso para votar #voto,queja,negativo,0,0,10,sin_permiso
+1042,@user_1042,por qué no todos pueden votar en esta encuesta.,queja,negativo,0,0,3,sin_permiso
+1043,@user_1043,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,0,0,18,sin_permiso
+1044,@user_1044,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,15,sin_permiso
+1045,@user_1045,está bien que no todos puedan votar así evitan bots pls,a_favor_restriccion,positivo,1,1,711,abstencion
+1046,@user_1046,quién sí puede votar entonces!,neutro_pregunta,neutro,0,0,22,sin_permiso
+1047,@user_1047,el botón de votar está gris qué significa #voto,neutro_pregunta,neutro,0,0,18,sin_permiso
+1048,@user_1048,por qué no todos pueden votar en esta encuesta.,queja,negativo,0,0,12,sin_permiso
+1049,@user_1049,hay que tener correo institucional para votar #encuesta,explica_regla,neutro,0,0,1,sin_permiso
+1050,@user_1050,apoyo que solo voten cuentas verificadas,a_favor_restriccion,positivo,1,1,84,abstencion
+1051,@user_1051,staff y alumnos verificados sí pueden votar #voto,explica_regla,neutro,1,1,497,abstencion
+1052,@user_1052,sin verificación de identidad no hay voto.,explica_regla,neutro,1,1,835,abstencion
+1053,@user_1053,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,1,sin_permiso
+1054,@user_1054,intenté votar tres veces y me rechaza!,queja,negativo,0,0,6,sin_permiso
+1055,@user_1055,si no todos pueden votar la encuesta no es válida??,queja,negativo,0,0,18,sin_permiso
+1056,@user_1056,solo cuentas verificadas pueden votar pls,explica_regla,neutro,1,1,1364,abstencion
+1057,@user_1057,solo alumnos activos del semestre pueden votar,explica_regla,neutro,0,0,2,sin_permiso
+1058,@user_1058,me sale error 403 al intentar votar.,queja,negativo,0,0,11,sin_permiso
+1059,@user_1059,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,13,sin_permiso
+1060,@user_1060,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,1,1,1109,abrir_voto_a_todos
+1061,@user_1061,sin verificación de identidad no hay voto...,explica_regla,neutro,0,0,29,sin_permiso
+1062,@user_1062,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,0,0,1,sin_permiso
+1063,@user_1063,puedo recuperar el permiso de voto...,neutro_pregunta,neutro,1,1,1248,a_favor_de_restringir
+1064,@user_1064,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,6,sin_permiso
+1065,@user_1065,hay una lista de quiénes sí votan,neutro_pregunta,neutro,0,0,3,sin_permiso
+1066,@user_1066,yo pago inscripción y no puedo votar absurdo.,en_contra_restriccion,negativo,1,1,1434,abrir_voto_a_todos
+1067,@user_1067,quiero votar y la plataforma me bloquea pls,queja,negativo,0,0,1,sin_permiso
+1068,@user_1068,yo pago inscripción y no puedo votar absurdo #voto,en_contra_restriccion,negativo,1,1,914,abrir_voto_a_todos
+1069,@user_1069,intenté votar tres veces y me rechaza pls,queja,negativo,0,0,24,sin_permiso
+1070,@user_1070,todos los alumnos deberían poder votar.,en_contra_restriccion,negativo,1,1,814,abrir_voto_a_todos
+1071,@user_1071,por qué no todos pueden votar en esta encuesta...,queja,negativo,0,0,18,sin_permiso
+1072,@user_1072,apoyo que solo voten cuentas verificadas??,a_favor_restriccion,positivo,1,1,613,a_favor_de_restringir
+1073,@user_1073,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,586,abrir_voto_a_todos
+1074,@user_1074,quitar la restricción ya,en_contra_restriccion,negativo,0,0,13,sin_permiso
+1075,@user_1075,la restricción de voto protege el resultado #encuesta,a_favor_restriccion,positivo,1,1,394,abstencion
+1076,@user_1076,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,1,1,616,abrir_voto_a_todos
+1077,@user_1077,sin filtro de voto gana quien tenga más bots!,a_favor_restriccion,positivo,1,1,779,a_favor_de_restringir
+1078,@user_1078,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,610,abrir_voto_a_todos
+1079,@user_1079,el botón de votar está gris qué significa??,neutro_pregunta,neutro,1,1,165,a_favor_de_restringir
+1080,@user_1080,aparece el mensaje: no tienes permiso para votar pls,queja,negativo,0,0,1,sin_permiso
+1081,@user_1081,esto silencia a los de nuevo ingreso!,en_contra_restriccion,negativo,0,0,13,sin_permiso
+1082,@user_1082,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,0,0,6,sin_permiso
+1083,@user_1083,quién sí puede votar entonces??,neutro_pregunta,neutro,1,0,758,a_favor_de_restringir
+1084,@user_1084,qué requisitos hay para poder votar.,neutro_pregunta,neutro,0,0,6,sin_permiso
+1085,@user_1085,moderación bloquea votos de cuentas recién creadas??,explica_regla,neutro,1,1,490,abstencion
+1086,@user_1086,yo pago inscripción y no puedo votar absurdo!,en_contra_restriccion,negativo,1,1,769,abrir_voto_a_todos
+1087,@user_1087,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,1,1,574,a_favor_de_restringir
+1088,@user_1088,staff y alumnos verificados sí pueden votar.,explica_regla,neutro,0,0,9,sin_permiso
+1089,@user_1089,limitar el voto es necesario en este foro!,a_favor_restriccion,positivo,1,0,614,abstencion
+1090,@user_1090,las cuentas nuevas no pueden votar por seguridad,explica_regla,neutro,0,0,12,sin_permiso
+1091,@user_1091,staff y alumnos verificados sí pueden votar!,explica_regla,neutro,1,0,283,a_favor_de_restringir
+1092,@user_1092,solo alumnos activos del semestre pueden votar #voto,explica_regla,neutro,1,0,903,abstencion
+1093,@user_1093,quién sí puede votar entonces...,neutro_pregunta,neutro,1,0,506,abrir_voto_a_todos
+1094,@user_1094,todos los alumnos deberían poder votar.,en_contra_restriccion,negativo,1,1,936,abrir_voto_a_todos
+1095,@user_1095,la regla de no todos pueden votar discrimina??,en_contra_restriccion,negativo,0,0,16,sin_permiso
+1096,@user_1096,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,1,1,1,abrir_voto_a_todos
+1097,@user_1097,si no todos pueden votar para qué preguntan pls,en_contra_restriccion,negativo,0,0,1,sin_permiso
+1098,@user_1098,si dejan votar a cualquiera manipulan la encuesta pls,a_favor_restriccion,positivo,1,0,1270,a_favor_de_restringir
+1099,@user_1099,la regla de no todos pueden votar discrimina pls,en_contra_restriccion,negativo,1,1,562,abstencion
+1100,@user_1100,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,4,sin_permiso
+1101,@user_1101,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,1,1,692,abstencion
+1102,@user_1102,solo alumnos activos del semestre pueden votar pls,explica_regla,neutro,0,0,1,sin_permiso
+1103,@user_1103,quién sí puede votar entonces pls,neutro_pregunta,neutro,0,0,17,sin_permiso
+1104,@user_1104,quiero votar y la plataforma me bloquea.,queja,negativo,0,0,4,sin_permiso
+1105,@user_1105,qué requisitos hay para poder votar,neutro_pregunta,neutro,0,0,8,sin_permiso
+1106,@user_1106,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,0,0,13,sin_permiso
+1107,@user_1107,la regla de no todos pueden votar discrimina #encuesta,en_contra_restriccion,negativo,1,0,746,abrir_voto_a_todos
+1108,@user_1108,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,1,846,a_favor_de_restringir
+1109,@user_1109,esto silencia a los de nuevo ingreso pls,en_contra_restriccion,negativo,1,1,379,abrir_voto_a_todos
+1110,@user_1110,apoyo que solo voten cuentas verificadas #encuesta,a_favor_restriccion,positivo,1,1,774,a_favor_de_restringir
+1111,@user_1111,hay que tener correo institucional para votar pls,explica_regla,neutro,0,0,20,sin_permiso
+1112,@user_1112,mejor pocos votos reales que mil votos falsos pls,a_favor_restriccion,positivo,1,1,916,a_favor_de_restringir
+1113,@user_1113,la regla de no todos pueden votar discrimina #encuesta,en_contra_restriccion,negativo,1,1,381,abrir_voto_a_todos
+1114,@user_1114,está bien que no todos puedan votar así evitan bots!,a_favor_restriccion,positivo,1,1,509,a_favor_de_restringir
+1115,@user_1115,soy alumno y aun asi no puedo emitir voto,queja,negativo,0,0,9,sin_permiso
+1116,@user_1116,dice que mi cuenta no tiene permiso para votar #encuesta,queja,negativo,0,0,7,sin_permiso
+1117,@user_1117,excluir gente del voto es antidemocrático #voto,en_contra_restriccion,negativo,1,1,325,abstencion
+1118,@user_1118,me sale error 403 al intentar votar pls,queja,negativo,0,0,11,sin_permiso
+1119,@user_1119,esto silencia a los de nuevo ingreso.,en_contra_restriccion,negativo,1,1,550,abstencion
+1120,@user_1120,solo cuentas verificadas pueden votar,explica_regla,neutro,1,1,1236,a_favor_de_restringir
+1121,@user_1121,aparece el mensaje: no tienes permiso para votar.,queja,negativo,0,0,7,sin_permiso
+1122,@user_1122,apoyo que solo voten cuentas verificadas pls,a_favor_restriccion,positivo,1,1,826,a_favor_de_restringir
+1123,@user_1123,quiero votar y la plataforma me bloquea #encuesta,queja,negativo,0,0,8,sin_permiso
+1124,@user_1124,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,0,0,1,sin_permiso
+1125,@user_1125,quién sí puede votar entonces.,neutro_pregunta,neutro,1,1,883,a_favor_de_restringir
+1126,@user_1126,alguien sabe por qué no todos pueden votar...,neutro_pregunta,neutro,1,1,992,abstencion
+1127,@user_1127,staff y alumnos verificados sí pueden votar #voto,explica_regla,neutro,1,1,640,a_favor_de_restringir
+1128,@user_1128,si eres sospechoso de bot no te dejan votar!,explica_regla,neutro,1,0,245,abstencion
+1129,@user_1129,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,5,sin_permiso
+1130,@user_1130,abrir el voto a todos haría más legítima la encuesta #encuesta,en_contra_restriccion,negativo,0,0,7,sin_permiso
+1131,@user_1131,el reglamento dice: no todos pueden votar,explica_regla,neutro,1,1,819,abrir_voto_a_todos
+1132,@user_1132,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,0,0,14,sin_permiso
+1133,@user_1133,si eres sospechoso de bot no te dejan votar!,explica_regla,neutro,1,0,860,abrir_voto_a_todos
+1134,@user_1134,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,1,1,311,abrir_voto_a_todos
+1135,@user_1135,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,1,1032,abrir_voto_a_todos
+1136,@user_1136,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,981,a_favor_de_restringir
+1137,@user_1137,las cuentas nuevas no pueden votar por seguridad,explica_regla,neutro,0,0,3,sin_permiso
+1138,@user_1138,quiero votar y la plataforma me bloquea??,queja,negativo,0,0,16,sin_permiso
+1139,@user_1139,cuántos días de cuenta necesito para votar #encuesta,neutro_pregunta,neutro,1,1,480,abstencion
+1140,@user_1140,si no todos pueden votar para qué preguntan,en_contra_restriccion,negativo,1,1,985,abrir_voto_a_todos
+1141,@user_1141,si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,positivo,1,1,1194,a_favor_de_restringir
+1142,@user_1142,moderación bloquea votos de cuentas recién creadas #encuesta,explica_regla,neutro,0,0,1,sin_permiso
+1143,@user_1143,para votar necesitas más de 30 días de antigüedad #voto,explica_regla,neutro,1,1,675,abrir_voto_a_todos
+1144,@user_1144,abrir el voto a todos haría más legítima la encuesta pls,en_contra_restriccion,negativo,0,0,11,sin_permiso
+1145,@user_1145,hay que tener correo institucional para votar #encuesta,explica_regla,neutro,1,1,479,a_favor_de_restringir
+1146,@user_1146,me sale error 403 al intentar votar!,queja,negativo,0,0,5,sin_permiso
+1147,@user_1147,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,1,1,431,abstencion
+1148,@user_1148,puedo recuperar el permiso de voto??,neutro_pregunta,neutro,0,0,4,sin_permiso
+1149,@user_1149,alguien sabe por qué no todos pueden votar #voto,neutro_pregunta,neutro,0,0,1,sin_permiso
+1150,@user_1150,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,19,sin_permiso
+1151,@user_1151,sin verificación de identidad no hay voto!,explica_regla,neutro,0,0,1,sin_permiso
+1152,@user_1152,el botón de votar está gris qué significa #encuesta,neutro_pregunta,neutro,0,0,14,sin_permiso
+1153,@user_1153,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,1067,abrir_voto_a_todos
+1154,@user_1154,intenté votar tres veces y me rechaza #encuesta,queja,negativo,0,0,2,sin_permiso
+1155,@user_1155,qué requisitos hay para poder votar,neutro_pregunta,neutro,1,1,357,abstencion
+1156,@user_1156,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,1,977,abrir_voto_a_todos
+1157,@user_1157,soy alumno y aun asi no puedo emitir voto...,queja,negativo,0,0,1,sin_permiso
+1158,@user_1158,soy alumno y aun asi no puedo emitir voto...,queja,negativo,0,0,11,sin_permiso
+1159,@user_1159,por qué no todos pueden votar en esta encuesta pls,queja,negativo,0,0,12,sin_permiso
+1160,@user_1160,solo alumnos activos del semestre pueden votar #voto,explica_regla,neutro,1,1,1018,abstencion
+1161,@user_1161,intenté votar tres veces y me rechaza #encuesta,queja,negativo,0,0,10,sin_permiso
+1162,@user_1162,dice que mi cuenta no tiene permiso para votar??,queja,negativo,0,0,12,sin_permiso
+1163,@user_1163,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,0,0,16,sin_permiso
+1164,@user_1164,aparece el mensaje: no tienes permiso para votar!,queja,negativo,0,0,22,sin_permiso
+1165,@user_1165,yo pago inscripción y no puedo votar absurdo??,en_contra_restriccion,negativo,1,0,1214,abrir_voto_a_todos
+1166,@user_1166,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,4,sin_permiso
+1167,@user_1167,me sale error 403 al intentar votar??,queja,negativo,0,0,17,sin_permiso
+1168,@user_1168,apoyo que solo voten cuentas verificadas pls,a_favor_restriccion,positivo,1,1,1513,a_favor_de_restringir
+1169,@user_1169,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,0,372,a_favor_de_restringir
+1170,@user_1170,solo alumnos activos del semestre pueden votar!,explica_regla,neutro,1,0,861,abstencion
+1171,@user_1171,si no todos pueden votar para qué preguntan??,en_contra_restriccion,negativo,0,0,8,sin_permiso
+1172,@user_1172,solo cuentas verificadas pueden votar pls,explica_regla,neutro,0,0,3,sin_permiso
+1173,@user_1173,hay que tener correo institucional para votar.,explica_regla,neutro,0,0,10,sin_permiso
+1174,@user_1174,quién sí puede votar entonces pls,neutro_pregunta,neutro,0,0,5,sin_permiso
+1175,@user_1175,si no todos pueden votar la encuesta no es válida pls,queja,negativo,0,0,9,sin_permiso
+1176,@user_1176,abrir el voto a todos haría más legítima la encuesta.,en_contra_restriccion,negativo,1,0,1666,abstencion
+1177,@user_1177,mejor pocos votos reales que mil votos falsos pls,a_favor_restriccion,positivo,1,1,901,a_favor_de_restringir
+1178,@user_1178,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,0,0,14,sin_permiso
+1179,@user_1179,hay una lista de quiénes sí votan #voto,neutro_pregunta,neutro,0,0,5,sin_permiso
+1180,@user_1180,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,1,1,1469,abrir_voto_a_todos
+1181,@user_1181,sin verificación de identidad no hay voto,explica_regla,neutro,0,0,6,sin_permiso
+1182,@user_1182,sin filtro de voto gana quien tenga más bots??,a_favor_restriccion,positivo,1,1,679,a_favor_de_restringir
+1183,@user_1183,sin verificación de identidad no hay voto...,explica_regla,neutro,0,0,1,sin_permiso
+1184,@user_1184,hay que tener correo institucional para votar.,explica_regla,neutro,1,1,1057,a_favor_de_restringir
+1185,@user_1185,no es justo que no todos puedan votar,queja,negativo,0,0,16,sin_permiso
+1186,@user_1186,quitar la restricción ya pls,en_contra_restriccion,negativo,1,1,769,abrir_voto_a_todos
+1187,@user_1187,el reglamento dice: no todos pueden votar pls,explica_regla,neutro,1,0,744,abstencion
+1188,@user_1188,está bien que no todos puedan votar así evitan bots!,a_favor_restriccion,positivo,1,1,268,a_favor_de_restringir
+1189,@user_1189,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,1,1,736,abstencion
+1190,@user_1190,concuerdo: no todos deben poder votar aquí...,a_favor_restriccion,positivo,1,1,1426,abstencion
+1191,@user_1191,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,1105,a_favor_de_restringir
+1192,@user_1192,moderación bloquea votos de cuentas recién creadas #voto,explica_regla,neutro,1,1,437,abstencion
+1193,@user_1193,solo cuentas verificadas pueden votar.,explica_regla,neutro,1,0,914,a_favor_de_restringir
+1194,@user_1194,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,0,816,a_favor_de_restringir
+1195,@user_1195,dice que mi cuenta no tiene permiso para votar #encuesta,queja,negativo,0,0,13,sin_permiso
+1196,@user_1196,el reglamento dice: no todos pueden votar...,explica_regla,neutro,0,0,19,sin_permiso
+1197,@user_1197,cuántos días de cuenta necesito para votar,neutro_pregunta,neutro,0,0,5,sin_permiso
+1198,@user_1198,concuerdo: no todos deben poder votar aquí #voto,a_favor_restriccion,positivo,1,0,498,a_favor_de_restringir
+1199,@user_1199,soy alumno y aun asi no puedo emitir voto...,queja,negativo,0,0,12,sin_permiso
+1200,@user_1200,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,1126,a_favor_de_restringir
+1201,@user_1201,las cuentas nuevas no pueden votar por seguridad??,explica_regla,neutro,0,0,11,sin_permiso
+1202,@user_1202,el botón de votar está gris qué significa #encuesta,neutro_pregunta,neutro,1,1,1319,abstencion
+1203,@user_1203,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,1,sin_permiso
+1204,@user_1204,la restricción de voto protege el resultado pls,a_favor_restriccion,positivo,1,1,853,abstencion
+1205,@user_1205,me sale error 403 al intentar votar...,queja,negativo,0,0,11,sin_permiso
+1206,@user_1206,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,1448,a_favor_de_restringir
+1207,@user_1207,solo alumnos activos del semestre pueden votar #encuesta,explica_regla,neutro,1,0,1134,a_favor_de_restringir
+1208,@user_1208,puedo recuperar el permiso de voto pls,neutro_pregunta,neutro,1,1,702,abstencion
+1209,@user_1209,quitar la restricción ya.,en_contra_restriccion,negativo,0,0,5,sin_permiso
+1210,@user_1210,por qué no todos pueden votar en esta encuesta #encuesta,queja,negativo,0,0,6,sin_permiso
+1211,@user_1211,por qué no todos pueden votar en esta encuesta,queja,negativo,0,0,13,sin_permiso
+1212,@user_1212,si dejan votar a cualquiera manipulan la encuesta pls,a_favor_restriccion,positivo,1,1,1205,a_favor_de_restringir
+1213,@user_1213,staff y alumnos verificados sí pueden votar!,explica_regla,neutro,1,1,619,a_favor_de_restringir
+1214,@user_1214,limitar el voto es necesario en este foro...,a_favor_restriccion,positivo,1,1,819,a_favor_de_restringir
+1215,@user_1215,dice que mi cuenta no tiene permiso para votar #encuesta,queja,negativo,0,0,3,sin_permiso
+1216,@user_1216,excluir gente del voto es antidemocrático #encuesta,en_contra_restriccion,negativo,1,1,1393,abrir_voto_a_todos
+1217,@user_1217,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,0,0,3,sin_permiso
+1218,@user_1218,si dejan votar a cualquiera manipulan la encuesta??,a_favor_restriccion,positivo,1,1,769,abstencion
+1219,@user_1219,apoyo que solo voten cuentas verificadas!,a_favor_restriccion,positivo,1,1,506,a_favor_de_restringir
+1220,@user_1220,está bien que no todos puedan votar así evitan bots,a_favor_restriccion,positivo,1,1,1233,a_favor_de_restringir
+1221,@user_1221,el botón de votar está gris qué significa #encuesta,neutro_pregunta,neutro,0,0,12,sin_permiso
+1222,@user_1222,está bien que no todos puedan votar así evitan bots!,a_favor_restriccion,positivo,0,0,4,sin_permiso
+1223,@user_1223,concuerdo: no todos deben poder votar aquí.,a_favor_restriccion,positivo,1,1,733,abstencion
+1224,@user_1224,puedo recuperar el permiso de voto #voto,neutro_pregunta,neutro,0,0,4,sin_permiso
+1225,@user_1225,solo alumnos activos del semestre pueden votar??,explica_regla,neutro,0,0,10,sin_permiso
+1226,@user_1226,alguien sabe por qué no todos pueden votar!,neutro_pregunta,neutro,1,0,483,abstencion
+1227,@user_1227,quién sí puede votar entonces.,neutro_pregunta,neutro,0,0,24,sin_permiso
+1228,@user_1228,excluir gente del voto es antidemocrático??,en_contra_restriccion,negativo,1,1,636,abrir_voto_a_todos
+1229,@user_1229,si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,positivo,0,0,8,sin_permiso
+1230,@user_1230,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,0,0,1,sin_permiso
+1231,@user_1231,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,4,sin_permiso
+1232,@user_1232,la restricción de voto protege el resultado,a_favor_restriccion,positivo,1,1,1024,a_favor_de_restringir
+1233,@user_1233,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,0,0,4,sin_permiso
+1234,@user_1234,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,961,abrir_voto_a_todos
+1235,@user_1235,sin verificación de identidad no hay voto...,explica_regla,neutro,1,1,962,abstencion
+1236,@user_1236,si no todos pueden votar la encuesta no es válida.,queja,negativo,0,0,17,sin_permiso
+1237,@user_1237,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,1,1,918,a_favor_de_restringir
+1238,@user_1238,qué requisitos hay para poder votar??,neutro_pregunta,neutro,1,1,510,abrir_voto_a_todos
+1239,@user_1239,excluir gente del voto es antidemocrático.,en_contra_restriccion,negativo,0,0,1,sin_permiso
+1240,@user_1240,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,0,0,4,sin_permiso
+1241,@user_1241,intenté votar tres veces y me rechaza #encuesta,queja,negativo,0,0,24,sin_permiso
+1242,@user_1242,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,1095,abrir_voto_a_todos
+1243,@user_1243,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,13,sin_permiso
+1244,@user_1244,la regla de no todos pueden votar discrimina,en_contra_restriccion,negativo,1,1,693,abrir_voto_a_todos
+1245,@user_1245,si dejan votar a cualquiera manipulan la encuesta.,a_favor_restriccion,positivo,1,1,1768,abstencion
+1246,@user_1246,el reglamento dice: no todos pueden votar!,explica_regla,neutro,1,0,1087,a_favor_de_restringir
+1247,@user_1247,yo pago inscripción y no puedo votar absurdo,en_contra_restriccion,negativo,0,0,1,sin_permiso
+1248,@user_1248,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,20,sin_permiso
+1249,@user_1249,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,19,sin_permiso
+1250,@user_1250,la restricción de voto protege el resultado pls,a_favor_restriccion,positivo,0,0,13,sin_permiso
+1251,@user_1251,hay una lista de quiénes sí votan #voto,neutro_pregunta,neutro,0,0,3,sin_permiso
+1252,@user_1252,llevo poco tiempo registrado y no me deja votar #voto,queja,negativo,0,0,10,sin_permiso
+1253,@user_1253,si eres sospechoso de bot no te dejan votar #encuesta,explica_regla,neutro,1,0,884,abrir_voto_a_todos
+1254,@user_1254,abrir el voto a todos haría más legítima la encuesta.,en_contra_restriccion,negativo,0,0,10,sin_permiso
+1255,@user_1255,me sale error 403 al intentar votar,queja,negativo,0,0,3,sin_permiso
+1256,@user_1256,no es justo que no todos puedan votar,queja,negativo,0,0,1,sin_permiso
+1257,@user_1257,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,1,1023,abstencion
+1258,@user_1258,solo alumnos activos del semestre pueden votar #voto,explica_regla,neutro,1,1,1433,abstencion
+1259,@user_1259,hay una lista de quiénes sí votan...,neutro_pregunta,neutro,1,1,914,abrir_voto_a_todos
+1260,@user_1260,no es justo que no todos puedan votar!,queja,negativo,0,0,2,sin_permiso
+1261,@user_1261,limitar el voto es necesario en este foro #encuesta,a_favor_restriccion,positivo,1,1,858,abstencion
+1262,@user_1262,por qué no todos pueden votar en esta encuesta.,queja,negativo,0,0,13,sin_permiso
+1263,@user_1263,para votar necesitas más de 30 días de antigüedad #encuesta,explica_regla,neutro,1,1,714,abstencion
+1264,@user_1264,staff y alumnos verificados sí pueden votar.,explica_regla,neutro,1,1,821,abstencion
+1265,@user_1265,moderación bloquea votos de cuentas recién creadas #encuesta,explica_regla,neutro,1,1,307,abstencion
+1266,@user_1266,me sale error 403 al intentar votar...,queja,negativo,0,0,6,sin_permiso
+1267,@user_1267,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,21,sin_permiso
+1268,@user_1268,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,13,sin_permiso
+1269,@user_1269,sin filtro de voto gana quien tenga más bots #voto,a_favor_restriccion,positivo,1,1,551,a_favor_de_restringir
+1270,@user_1270,no es justo que no todos puedan votar.,queja,negativo,0,0,1,sin_permiso
+1271,@user_1271,está bien que no todos puedan votar así evitan bots.,a_favor_restriccion,positivo,0,0,8,sin_permiso
+1272,@user_1272,dice que mi cuenta no tiene permiso para votar pls,queja,negativo,0,0,11,sin_permiso
+1273,@user_1273,abrir el voto a todos haría más legítima la encuesta #voto,en_contra_restriccion,negativo,1,1,1569,abrir_voto_a_todos
+1274,@user_1274,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,0,0,8,sin_permiso
+1275,@user_1275,sin verificación de identidad no hay voto #encuesta,explica_regla,neutro,0,0,5,sin_permiso
+1276,@user_1276,si no todos pueden votar la encuesta no es válida!,queja,negativo,0,0,3,sin_permiso
+1277,@user_1277,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,1,1,1172,a_favor_de_restringir
+1278,@user_1278,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,0,0,21,sin_permiso
+1279,@user_1279,si eres sospechoso de bot no te dejan votar pls,explica_regla,neutro,0,0,5,sin_permiso
+1280,@user_1280,moderación bloquea votos de cuentas recién creadas,explica_regla,neutro,0,0,2,sin_permiso
+1281,@user_1281,la regla de no todos pueden votar discrimina.,en_contra_restriccion,negativo,1,1,1248,abrir_voto_a_todos
+1282,@user_1282,moderación bloquea votos de cuentas recién creadas.,explica_regla,neutro,1,1,801,a_favor_de_restringir
+1283,@user_1283,concuerdo: no todos deben poder votar aquí #encuesta,a_favor_restriccion,positivo,1,1,461,a_favor_de_restringir
+1284,@user_1284,intenté votar tres veces y me rechaza!,queja,negativo,0,0,6,sin_permiso
+1285,@user_1285,apoyo que solo voten cuentas verificadas.,a_favor_restriccion,positivo,1,1,1395,a_favor_de_restringir
+1286,@user_1286,staff y alumnos verificados sí pueden votar??,explica_regla,neutro,0,0,7,sin_permiso
+1287,@user_1287,concuerdo: no todos deben poder votar aquí!,a_favor_restriccion,positivo,1,1,630,abstencion
+1288,@user_1288,si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,positivo,1,1,949,a_favor_de_restringir
+1289,@user_1289,excluir gente del voto es antidemocrático.,en_contra_restriccion,negativo,1,1,815,abrir_voto_a_todos
+1290,@user_1290,para votar necesitas más de 30 días de antigüedad...,explica_regla,neutro,0,0,14,sin_permiso
+1291,@user_1291,mejor pocos votos reales que mil votos falsos #encuesta,a_favor_restriccion,positivo,1,1,892,a_favor_de_restringir
+1292,@user_1292,la restricción de voto protege el resultado...,a_favor_restriccion,positivo,0,0,1,sin_permiso
+1293,@user_1293,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,1,sin_permiso
+1294,@user_1294,solo cuentas verificadas pueden votar pls,explica_regla,neutro,0,0,1,sin_permiso
+1295,@user_1295,dice que mi cuenta no tiene permiso para votar??,queja,negativo,0,0,12,sin_permiso
+1296,@user_1296,el reglamento dice: no todos pueden votar,explica_regla,neutro,0,0,7,sin_permiso
+1297,@user_1297,la restricción de voto protege el resultado.,a_favor_restriccion,positivo,1,1,1145,a_favor_de_restringir
+1298,@user_1298,el reglamento dice: no todos pueden votar??,explica_regla,neutro,1,1,229,abstencion
+1299,@user_1299,el botón de votar está gris qué significa pls,neutro_pregunta,neutro,0,0,8,sin_permiso
+1300,@user_1300,me sale error 403 al intentar votar??,queja,negativo,0,0,23,sin_permiso
+1301,@user_1301,no es justo que no todos puedan votar.,queja,negativo,0,0,18,sin_permiso
+1302,@user_1302,staff y alumnos verificados sí pueden votar #encuesta,explica_regla,neutro,0,0,3,sin_permiso
+1303,@user_1303,qué requisitos hay para poder votar??,neutro_pregunta,neutro,1,1,1024,abrir_voto_a_todos
+1304,@user_1304,me sale error 403 al intentar votar!,queja,negativo,0,0,1,sin_permiso
+1305,@user_1305,soy alumno y aun asi no puedo emitir voto #encuesta,queja,negativo,0,0,8,sin_permiso
+1306,@user_1306,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,14,sin_permiso
+1307,@user_1307,solo alumnos activos del semestre pueden votar,explica_regla,neutro,0,0,13,sin_permiso
+1308,@user_1308,esto silencia a los de nuevo ingreso!,en_contra_restriccion,negativo,1,1,518,abrir_voto_a_todos
+1309,@user_1309,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,108,a_favor_de_restringir
+1310,@user_1310,mejor pocos votos reales que mil votos falsos #encuesta,a_favor_restriccion,positivo,0,0,25,sin_permiso
+1311,@user_1311,solo alumnos activos del semestre pueden votar.,explica_regla,neutro,0,0,19,sin_permiso
+1312,@user_1312,el botón de votar está gris qué significa #voto,neutro_pregunta,neutro,1,1,604,abstencion
+1313,@user_1313,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,17,sin_permiso
+1314,@user_1314,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,1,1,1562,abstencion
+1315,@user_1315,qué requisitos hay para poder votar!,neutro_pregunta,neutro,0,0,6,sin_permiso
+1316,@user_1316,hay que tener correo institucional para votar??,explica_regla,neutro,1,1,743,abrir_voto_a_todos
+1317,@user_1317,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,0,0,5,sin_permiso
+1318,@user_1318,aparece el mensaje: no tienes permiso para votar...,queja,negativo,0,0,13,sin_permiso
+1319,@user_1319,quiero votar y la plataforma me bloquea,queja,negativo,0,0,1,sin_permiso
+1320,@user_1320,llevo poco tiempo registrado y no me deja votar!,queja,negativo,0,0,1,sin_permiso
+1321,@user_1321,el botón de votar está gris qué significa pls,neutro_pregunta,neutro,0,0,17,sin_permiso
+1322,@user_1322,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,0,0,13,sin_permiso
+1323,@user_1323,yo pago inscripción y no puedo votar absurdo #encuesta,en_contra_restriccion,negativo,1,1,790,abrir_voto_a_todos
+1324,@user_1324,abrir el voto a todos haría más legítima la encuesta!,en_contra_restriccion,negativo,0,0,9,sin_permiso
+1325,@user_1325,excluir gente del voto es antidemocrático!,en_contra_restriccion,negativo,0,0,5,sin_permiso
+1326,@user_1326,sin filtro de voto gana quien tenga más bots #voto,a_favor_restriccion,positivo,1,1,204,a_favor_de_restringir
+1327,@user_1327,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,1,1,409,abstencion
+1328,@user_1328,si no todos pueden votar para qué preguntan #encuesta,en_contra_restriccion,negativo,0,0,11,sin_permiso
+1329,@user_1329,me sale error 403 al intentar votar,queja,negativo,0,0,1,sin_permiso
+1330,@user_1330,sin filtro de voto gana quien tenga más bots #encuesta,a_favor_restriccion,positivo,1,1,1009,a_favor_de_restringir
+1331,@user_1331,cuántos días de cuenta necesito para votar...,neutro_pregunta,neutro,1,1,895,abstencion
+1332,@user_1332,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,11,sin_permiso
+1333,@user_1333,está bien que no todos puedan votar así evitan bots!,a_favor_restriccion,positivo,1,0,1268,a_favor_de_restringir
+1334,@user_1334,qué requisitos hay para poder votar,neutro_pregunta,neutro,0,0,17,sin_permiso
+1335,@user_1335,no es justo que no todos puedan votar.,queja,negativo,0,0,10,sin_permiso
+1336,@user_1336,solo cuentas verificadas pueden votar.,explica_regla,neutro,0,0,13,sin_permiso
+1337,@user_1337,dice que mi cuenta no tiene permiso para votar #encuesta,queja,negativo,0,0,21,sin_permiso
+1338,@user_1338,por qué no todos pueden votar en esta encuesta #encuesta,queja,negativo,0,0,10,sin_permiso
+1339,@user_1339,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,13,sin_permiso
+1340,@user_1340,sin verificación de identidad no hay voto??,explica_regla,neutro,0,0,13,sin_permiso
+1341,@user_1341,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,1,1084,abstencion
+1342,@user_1342,me sale error 403 al intentar votar??,queja,negativo,0,0,12,sin_permiso
+1343,@user_1343,me sale error 403 al intentar votar #voto,queja,negativo,0,0,1,sin_permiso
+1344,@user_1344,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,1,1,85,abrir_voto_a_todos
+1345,@user_1345,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,0,0,13,sin_permiso
+1346,@user_1346,no es justo que no todos puedan votar.,queja,negativo,0,0,6,sin_permiso
+1347,@user_1347,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,13,sin_permiso
+1348,@user_1348,intenté votar tres veces y me rechaza,queja,negativo,0,0,13,sin_permiso
+1349,@user_1349,las cuentas nuevas no pueden votar por seguridad #voto,explica_regla,neutro,1,0,1086,abrir_voto_a_todos
+1350,@user_1350,si no todos pueden votar la encuesta no es válida #voto,queja,negativo,0,0,9,sin_permiso
+1351,@user_1351,soy alumno y aun asi no puedo emitir voto??,queja,negativo,0,0,5,sin_permiso
+1352,@user_1352,hay que tener correo institucional para votar...,explica_regla,neutro,0,0,8,sin_permiso
+1353,@user_1353,solo alumnos activos del semestre pueden votar.,explica_regla,neutro,1,1,695,abrir_voto_a_todos
+1354,@user_1354,me sale error 403 al intentar votar.,queja,negativo,0,0,1,sin_permiso
+1355,@user_1355,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,11,sin_permiso
+1356,@user_1356,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,12,sin_permiso
+1357,@user_1357,intenté votar tres veces y me rechaza...,queja,negativo,0,0,20,sin_permiso
+1358,@user_1358,si dejan votar a cualquiera manipulan la encuesta...,a_favor_restriccion,positivo,1,0,927,abstencion
+1359,@user_1359,moderación bloquea votos de cuentas recién creadas #voto,explica_regla,neutro,1,0,523,abstencion
+1360,@user_1360,yo pago inscripción y no puedo votar absurdo!,en_contra_restriccion,negativo,1,1,1279,abrir_voto_a_todos
+1361,@user_1361,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,0,1164,a_favor_de_restringir
+1362,@user_1362,soy alumno y aun asi no puedo emitir voto.,queja,negativo,0,0,1,sin_permiso
+1363,@user_1363,puedo recuperar el permiso de voto,neutro_pregunta,neutro,1,0,226,abstencion
+1364,@user_1364,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,0,0,21,sin_permiso
+1365,@user_1365,puedo recuperar el permiso de voto #encuesta,neutro_pregunta,neutro,1,0,883,a_favor_de_restringir
+1366,@user_1366,puedo recuperar el permiso de voto,neutro_pregunta,neutro,0,0,27,sin_permiso
+1367,@user_1367,quién sí puede votar entonces #encuesta,neutro_pregunta,neutro,1,1,817,abstencion
+1368,@user_1368,todos los alumnos deberían poder votar pls,en_contra_restriccion,negativo,1,1,79,abrir_voto_a_todos
+1369,@user_1369,alguien sabe por qué no todos pueden votar #encuesta,neutro_pregunta,neutro,0,0,9,sin_permiso
+1370,@user_1370,staff y alumnos verificados sí pueden votar!,explica_regla,neutro,0,0,1,sin_permiso
+1371,@user_1371,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,907,abstencion
+1372,@user_1372,no es justo que no todos puedan votar #voto,queja,negativo,0,0,13,sin_permiso
+1373,@user_1373,si eres sospechoso de bot no te dejan votar??,explica_regla,neutro,1,1,229,a_favor_de_restringir
+1374,@user_1374,solo alumnos activos del semestre pueden votar #encuesta,explica_regla,neutro,1,1,159,abstencion
+1375,@user_1375,concuerdo: no todos deben poder votar aquí...,a_favor_restriccion,positivo,1,0,893,a_favor_de_restringir
+1376,@user_1376,moderación bloquea votos de cuentas recién creadas??,explica_regla,neutro,0,0,17,sin_permiso
+1377,@user_1377,por qué no todos pueden votar en esta encuesta #voto,queja,negativo,0,0,18,sin_permiso
+1378,@user_1378,por qué no todos pueden votar en esta encuesta...,queja,negativo,0,0,18,sin_permiso
+1379,@user_1379,excluir gente del voto es antidemocrático #encuesta,en_contra_restriccion,negativo,0,0,15,sin_permiso
+1380,@user_1380,dice que mi cuenta no tiene permiso para votar pls,queja,negativo,0,0,5,sin_permiso
+1381,@user_1381,dice que mi cuenta no tiene permiso para votar,queja,negativo,0,0,12,sin_permiso
+1382,@user_1382,limitar el voto es necesario en este foro pls,a_favor_restriccion,positivo,1,1,1199,a_favor_de_restringir
+1383,@user_1383,si eres sospechoso de bot no te dejan votar,explica_regla,neutro,0,0,16,sin_permiso
+1384,@user_1384,cuántos días de cuenta necesito para votar.,neutro_pregunta,neutro,0,0,12,sin_permiso
+1385,@user_1385,para votar necesitas más de 30 días de antigüedad.,explica_regla,neutro,1,0,1038,abstencion
+1386,@user_1386,el reglamento dice: no todos pueden votar??,explica_regla,neutro,1,1,981,abstencion
+1387,@user_1387,moderación bloquea votos de cuentas recién creadas #encuesta,explica_regla,neutro,0,0,12,sin_permiso
+1388,@user_1388,solo cuentas verificadas pueden votar #encuesta,explica_regla,neutro,1,1,956,a_favor_de_restringir
+1389,@user_1389,quitar la restricción ya #voto,en_contra_restriccion,negativo,0,0,13,sin_permiso
+1390,@user_1390,las cuentas nuevas no pueden votar por seguridad #encuesta,explica_regla,neutro,0,0,1,sin_permiso
+1391,@user_1391,alguien sabe por qué no todos pueden votar,neutro_pregunta,neutro,0,0,19,sin_permiso
+1392,@user_1392,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,1,797,abrir_voto_a_todos
+1393,@user_1393,la regla de no todos pueden votar discrimina...,en_contra_restriccion,negativo,1,1,982,abrir_voto_a_todos
+1394,@user_1394,alguien sabe por qué no todos pueden votar #voto,neutro_pregunta,neutro,0,0,14,sin_permiso
+1395,@user_1395,todos los alumnos deberían poder votar!,en_contra_restriccion,negativo,1,1,330,abrir_voto_a_todos
+1396,@user_1396,me sale error 403 al intentar votar,queja,negativo,0,0,11,sin_permiso
+1397,@user_1397,mejor pocos votos reales que mil votos falsos!,a_favor_restriccion,positivo,1,1,490,abstencion
+1398,@user_1398,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,7,sin_permiso
+1399,@user_1399,hay que tener correo institucional para votar,explica_regla,neutro,0,0,10,sin_permiso
+1400,@user_1400,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,1157,a_favor_de_restringir
+1401,@user_1401,puedo recuperar el permiso de voto.,neutro_pregunta,neutro,1,1,663,abstencion
+1402,@user_1402,todos los alumnos deberían poder votar...,en_contra_restriccion,negativo,0,0,1,sin_permiso
+1403,@user_1403,no es justo que no todos puedan votar #voto,queja,negativo,0,0,13,sin_permiso
+1404,@user_1404,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,0,0,1,sin_permiso
+1405,@user_1405,dónde veo si mi cuenta puede votar.,neutro_pregunta,neutro,1,1,553,abrir_voto_a_todos
+1406,@user_1406,está bien que no todos puedan votar así evitan bots #voto,a_favor_restriccion,positivo,1,1,1,a_favor_de_restringir
+1407,@user_1407,llevo poco tiempo registrado y no me deja votar #encuesta,queja,negativo,0,0,6,sin_permiso
+1408,@user_1408,quiero votar y la plataforma me bloquea!,queja,negativo,0,0,19,sin_permiso
+1409,@user_1409,me sale error 403 al intentar votar??,queja,negativo,0,0,4,sin_permiso
+1410,@user_1410,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,1089,a_favor_de_restringir
+1411,@user_1411,yo pago inscripción y no puedo votar absurdo!,en_contra_restriccion,negativo,0,0,18,sin_permiso
+1412,@user_1412,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,859,a_favor_de_restringir
+1413,@user_1413,no es justo que no todos puedan votar!,queja,negativo,0,0,1,sin_permiso
+1414,@user_1414,mejor pocos votos reales que mil votos falsos pls,a_favor_restriccion,positivo,1,1,613,abstencion
+1415,@user_1415,para votar necesitas más de 30 días de antigüedad??,explica_regla,neutro,0,0,13,sin_permiso
+1416,@user_1416,por qué no todos pueden votar en esta encuesta!,queja,negativo,0,0,8,sin_permiso
+1417,@user_1417,las cuentas nuevas no pueden votar por seguridad...,explica_regla,neutro,1,1,914,abstencion
+1418,@user_1418,solo cuentas verificadas pueden votar!,explica_regla,neutro,1,1,632,abstencion
+1419,@user_1419,dice que mi cuenta no tiene permiso para votar #voto,queja,negativo,0,0,9,sin_permiso
+1420,@user_1420,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,1,1,1285,abrir_voto_a_todos
+1421,@user_1421,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,0,1543,a_favor_de_restringir
+1422,@user_1422,solo alumnos activos del semestre pueden votar,explica_regla,neutro,0,0,1,sin_permiso
+1423,@user_1423,apoyo que solo voten cuentas verificadas.,a_favor_restriccion,positivo,1,1,1064,a_favor_de_restringir
+1424,@user_1424,para votar necesitas más de 30 días de antigüedad pls,explica_regla,neutro,0,0,28,sin_permiso
+1425,@user_1425,abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,negativo,1,1,698,abrir_voto_a_todos
+1426,@user_1426,solo alumnos activos del semestre pueden votar!,explica_regla,neutro,0,0,9,sin_permiso
+1427,@user_1427,yo pago inscripción y no puedo votar absurdo??,en_contra_restriccion,negativo,1,0,844,abrir_voto_a_todos
+1428,@user_1428,soy alumno y aun asi no puedo emitir voto pls,queja,negativo,0,0,4,sin_permiso
+1429,@user_1429,sin verificación de identidad no hay voto??,explica_regla,neutro,0,0,8,sin_permiso
+1430,@user_1430,yo pago inscripción y no puedo votar absurdo pls,en_contra_restriccion,negativo,1,1,24,abrir_voto_a_todos
+1431,@user_1431,si no todos pueden votar la encuesta no es válida #encuesta,queja,negativo,0,0,20,sin_permiso
+1432,@user_1432,la restricción de voto protege el resultado!,a_favor_restriccion,positivo,1,1,1493,abstencion
+1433,@user_1433,abrir el voto a todos haría más legítima la encuesta...,en_contra_restriccion,negativo,1,0,579,abrir_voto_a_todos
+1434,@user_1434,aparece el mensaje: no tienes permiso para votar??,queja,negativo,0,0,1,sin_permiso
+1435,@user_1435,por qué no todos pueden votar en esta encuesta...,queja,negativo,0,0,1,sin_permiso
+1436,@user_1436,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,0,1115,a_favor_de_restringir
+1437,@user_1437,dónde veo si mi cuenta puede votar #voto,neutro_pregunta,neutro,0,0,10,sin_permiso
+1438,@user_1438,no es justo que no todos puedan votar??,queja,negativo,0,0,12,sin_permiso
+1439,@user_1439,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,12,sin_permiso
+1440,@user_1440,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,904,abstencion
+1441,@user_1441,dónde veo si mi cuenta puede votar,neutro_pregunta,neutro,1,1,1005,a_favor_de_restringir
+1442,@user_1442,quién sí puede votar entonces??,neutro_pregunta,neutro,0,0,9,sin_permiso
+1443,@user_1443,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,18,sin_permiso
+1444,@user_1444,me sale error 403 al intentar votar,queja,negativo,0,0,5,sin_permiso
+1445,@user_1445,concuerdo: no todos deben poder votar aquí pls,a_favor_restriccion,positivo,1,0,1244,a_favor_de_restringir
+1446,@user_1446,abrir el voto a todos haría más legítima la encuesta #encuesta,en_contra_restriccion,negativo,1,1,1194,abrir_voto_a_todos
+1447,@user_1447,esto silencia a los de nuevo ingreso,en_contra_restriccion,negativo,0,0,4,sin_permiso
+1448,@user_1448,me sale error 403 al intentar votar pls,queja,negativo,0,0,3,sin_permiso
+1449,@user_1449,para votar necesitas más de 30 días de antigüedad,explica_regla,neutro,0,0,1,sin_permiso
+1450,@user_1450,concuerdo: no todos deben poder votar aquí...,a_favor_restriccion,positivo,1,1,847,a_favor_de_restringir
+1451,@user_1451,mejor pocos votos reales que mil votos falsos,a_favor_restriccion,positivo,1,1,1139,a_favor_de_restringir
+1452,@user_1452,si dejan votar a cualquiera manipulan la encuesta pls,a_favor_restriccion,positivo,1,0,823,a_favor_de_restringir
+1453,@user_1453,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,8,sin_permiso
+1454,@user_1454,si eres sospechoso de bot no te dejan votar...,explica_regla,neutro,0,0,1,sin_permiso
+1455,@user_1455,intenté votar tres veces y me rechaza??,queja,negativo,0,0,12,sin_permiso
+1456,@user_1456,apoyo que solo voten cuentas verificadas #voto,a_favor_restriccion,positivo,1,1,554,a_favor_de_restringir
+1457,@user_1457,sin verificación de identidad no hay voto!,explica_regla,neutro,0,0,1,sin_permiso
+1458,@user_1458,sin filtro de voto gana quien tenga más bots,a_favor_restriccion,positivo,1,1,959,abstencion
+1459,@user_1459,no es justo que no todos puedan votar...,queja,negativo,0,0,12,sin_permiso
+1460,@user_1460,quiero votar y la plataforma me bloquea.,queja,negativo,0,0,6,sin_permiso
+1461,@user_1461,quitar la restricción ya.,en_contra_restriccion,negativo,1,0,968,abrir_voto_a_todos
+1462,@user_1462,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,0,0,21,sin_permiso
+1463,@user_1463,quiero votar y la plataforma me bloquea...,queja,negativo,0,0,15,sin_permiso
+1464,@user_1464,la regla de no todos pueden votar discrimina...,en_contra_restriccion,negativo,1,0,734,abrir_voto_a_todos
+1465,@user_1465,el botón de votar está gris qué significa!,neutro_pregunta,neutro,0,0,24,sin_permiso
+1466,@user_1466,la restricción de voto protege el resultado??,a_favor_restriccion,positivo,1,1,925,a_favor_de_restringir
+1467,@user_1467,la restricción de voto protege el resultado!,a_favor_restriccion,positivo,1,0,876,a_favor_de_restringir
+1468,@user_1468,qué requisitos hay para poder votar!,neutro_pregunta,neutro,0,0,7,sin_permiso
+1469,@user_1469,llevo poco tiempo registrado y no me deja votar pls,queja,negativo,0,0,7,sin_permiso
+1470,@user_1470,las cuentas nuevas no pueden votar por seguridad.,explica_regla,neutro,0,0,15,sin_permiso
+1471,@user_1471,el reglamento dice: no todos pueden votar pls,explica_regla,neutro,1,0,943,a_favor_de_restringir
+1472,@user_1472,si dejan votar a cualquiera manipulan la encuesta...,a_favor_restriccion,positivo,1,1,580,abstencion
+1473,@user_1473,limitar el voto es necesario en este foro,a_favor_restriccion,positivo,1,1,722,a_favor_de_restringir
+1474,@user_1474,me sale error 403 al intentar votar??,queja,negativo,0,0,4,sin_permiso
+1475,@user_1475,quiero votar y la plataforma me bloquea pls,queja,negativo,0,0,18,sin_permiso
+1476,@user_1476,yo pago inscripción y no puedo votar absurdo,en_contra_restriccion,negativo,0,0,1,sin_permiso
+1477,@user_1477,moderación bloquea votos de cuentas recién creadas pls,explica_regla,neutro,1,0,1292,abstencion
+1478,@user_1478,hay que tener correo institucional para votar #encuesta,explica_regla,neutro,0,0,14,sin_permiso
+1479,@user_1479,sin filtro de voto gana quien tenga más bots #voto,a_favor_restriccion,positivo,1,1,246,abstencion
+1480,@user_1480,esto silencia a los de nuevo ingreso...,en_contra_restriccion,negativo,1,1,264,abstencion
+1481,@user_1481,llevo poco tiempo registrado y no me deja votar...,queja,negativo,0,0,17,sin_permiso
+1482,@user_1482,llevo poco tiempo registrado y no me deja votar...,queja,negativo,0,0,13,sin_permiso
+1483,@user_1483,si no todos pueden votar la encuesta no es válida...,queja,negativo,0,0,17,sin_permiso
+1484,@user_1484,qué requisitos hay para poder votar #encuesta,neutro_pregunta,neutro,1,1,350,abstencion
+1485,@user_1485,llevo poco tiempo registrado y no me deja votar,queja,negativo,0,0,21,sin_permiso
+1486,@user_1486,concuerdo: no todos deben poder votar aquí.,a_favor_restriccion,positivo,1,1,419,a_favor_de_restringir
+1487,@user_1487,todos los alumnos deberían poder votar,en_contra_restriccion,negativo,1,1,221,abrir_voto_a_todos
+1488,@user_1488,apoyo que solo voten cuentas verificadas.,a_favor_restriccion,positivo,1,1,1210,abstencion
+1489,@user_1489,aparece el mensaje: no tienes permiso para votar,queja,negativo,0,0,17,sin_permiso
+1490,@user_1490,está bien que no todos puedan votar así evitan bots??,a_favor_restriccion,positivo,1,1,1124,a_favor_de_restringir
+1491,@user_1491,abrir el voto a todos haría más legítima la encuesta!,en_contra_restriccion,negativo,1,1,1180,abrir_voto_a_todos
+1492,@user_1492,qué requisitos hay para poder votar,neutro_pregunta,neutro,1,1,1315,a_favor_de_restringir
+1493,@user_1493,quitar la restricción ya...,en_contra_restriccion,negativo,1,1,977,abstencion
+1494,@user_1494,concuerdo: no todos deben poder votar aquí,a_favor_restriccion,positivo,1,1,339,a_favor_de_restringir
+1495,@user_1495,excluir gente del voto es antidemocrático,en_contra_restriccion,negativo,1,1,331,abrir_voto_a_todos
+1496,@user_1496,sin filtro de voto gana quien tenga más bots.,a_favor_restriccion,positivo,1,1,1363,abstencion
+1497,@user_1497,apoyo que solo voten cuentas verificadas,a_favor_restriccion,positivo,1,1,694,abstencion
+1498,@user_1498,quitar la restricción ya!,en_contra_restriccion,negativo,1,0,416,abrir_voto_a_todos
+1499,@user_1499,puedo recuperar el permiso de voto!,neutro_pregunta,neutro,0,0,8,sin_permiso
+1500,@user_1500,todos los alumnos deberían poder votar??,en_contra_restriccion,negativo,1,1,1029,abrir_voto_a_todos

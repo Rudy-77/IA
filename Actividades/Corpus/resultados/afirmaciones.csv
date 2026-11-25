@@ -1,0 +1,45 @@
+﻿afirmacion,categoria,n_comentarios,variable_que_la_prueba,evidencia,veredicto
+sin verificación de identidad no hay voto,explica_regla,31,(requiere reglamento),norma institucional; falta el documento fuente,FALTA FUENTE EXTERNA
+el reglamento dice: no todos pueden votar,explica_regla,29,(requiere reglamento),norma institucional; falta el documento fuente,FALTA FUENTE EXTERNA
+por qué no todos pueden votar en esta encuesta,queja,37,-,"pregunta o peticion, no es una afirmacion",NO APLICA
+quitar la restricción,en_contra_restriccion,33,-,"pregunta o peticion, no es una afirmacion",NO APLICA
+quién sí puede votar entonces,neutro_pregunta,33,-,"pregunta, no es una afirmacion",NO APLICA
+alguien sabe por qué no todos pueden votar,neutro_pregunta,29,-,"pregunta, no es una afirmacion",NO APLICA
+qué requisitos hay para poder votar,neutro_pregunta,28,-,"pregunta, no es una afirmacion",NO APLICA
+puedo recuperar el permiso de voto,neutro_pregunta,26,-,"pregunta, no es una afirmacion",NO APLICA
+cuántos días de cuenta necesito para votar,neutro_pregunta,23,-,"pregunta, no es una afirmacion",NO APLICA
+dónde veo si mi cuenta puede votar,neutro_pregunta,23,-,"pregunta, no es una afirmacion",NO APLICA
+el botón de votar está gris qué significa,neutro_pregunta,23,-,"pregunta, no es una afirmacion",NO APLICA
+hay una lista de quiénes sí votan,neutro_pregunta,21,-,"pregunta, no es una afirmacion",NO APLICA
+si no todos pueden votar la encuesta no es válida,queja,41,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+excluir gente del voto es antidemocrático,en_contra_restriccion,39,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+la regla de no todos pueden votar discrimina,en_contra_restriccion,38,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+no es justo que no todos puedan votar,queja,38,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+abrir el voto a todos haría más legítima la encuesta,en_contra_restriccion,36,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+la restricción de voto protege el resultado,a_favor_restriccion,35,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+limitar el voto es necesario en este foro,a_favor_restriccion,34,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+concuerdo: no todos deben poder votar aquí,a_favor_restriccion,31,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+si no todos pueden votar para qué preguntan,en_contra_restriccion,25,(juicio de valor),opinion; los datos no la confirman ni la niegan,OPINION
+solo cuentas verificadas pueden votar,explica_regla,32,cuenta_verificada,"verificadas->pueden 100%, pero 136 no verificadas tambien pueden",PARCIAL
+staff y alumnos verificados sí pueden votar,explica_regla,32,cuenta_verificada,"verificadas->pueden 100%, pero 136 no verificadas tambien pueden",PARCIAL
+apoyo que solo voten cuentas verificadas,a_favor_restriccion,28,cuenta_verificada,"verificadas->pueden 100%, pero 136 no verificadas tambien pueden",PARCIAL
+soy alumno y aun asi no puedo emitir voto,queja,46,(no existe),no hay columna de rol/alumno/staff,SIN EVIDENCIA EN EL DATASET
+todos los alumnos deberían poder votar,en_contra_restriccion,46,(no existe),no hay columna de rol/alumno/staff,SIN EVIDENCIA EN EL DATASET
+si eres sospechoso de bot no te dejan votar,explica_regla,44,(no existe),no hay columna que identifique bots,SIN EVIDENCIA EN EL DATASET
+sin filtro de voto gana quien tenga más bots,a_favor_restriccion,40,(no existe),no hay columna que identifique bots,SIN EVIDENCIA EN EL DATASET
+solo alumnos activos del semestre pueden votar,explica_regla,38,(no existe),no hay columna de rol/alumno/staff,SIN EVIDENCIA EN EL DATASET
+está bien que no todos puedan votar así evitan bots,a_favor_restriccion,33,(no existe),no hay columna que identifique bots,SIN EVIDENCIA EN EL DATASET
+mejor pocos votos reales que mil votos falsos,a_favor_restriccion,33,(no existe),no hay columna que identifique bots,SIN EVIDENCIA EN EL DATASET
+hay que tener correo institucional para votar,explica_regla,31,(no existe),no hay columna de rol/alumno/staff,SIN EVIDENCIA EN EL DATASET
+yo pago inscripción y no puedo votar absurdo,en_contra_restriccion,30,(no existe),no hay columna de rol/alumno/staff,SIN EVIDENCIA EN EL DATASET
+si dejan votar a cualquiera manipulan la encuesta,a_favor_restriccion,27,(no existe),no hay columna que identifique bots,SIN EVIDENCIA EN EL DATASET
+esto silencia a los de nuevo ingreso,en_contra_restriccion,25,(no existe),no hay columna de rol/alumno/staff,SIN EVIDENCIA EN EL DATASET
+quiero votar y la plataforma me bloquea,queja,46,puede_votar,100% de quienes lo dicen tienen puede_votar=0,SUSTENTADA
+me sale error 403 al intentar votar,queja,45,puede_votar,100% de quienes lo dicen tienen puede_votar=0,SUSTENTADA
+aparece el mensaje: no tienes permiso para votar,queja,44,puede_votar,100% de quienes lo dicen tienen puede_votar=0,SUSTENTADA
+llevo poco tiempo registrado y no me deja votar,queja,42,dias_cuenta,100.0% de quienes lo dicen tienen <=32 dias,SUSTENTADA
+para votar necesitas más de 30 días de antigüedad,explica_regla,42,dias_cuenta/puede_votar,99.0% de las filas cumplen el umbral de 30 dias,SUSTENTADA
+dice que mi cuenta no tiene permiso para votar,queja,40,puede_votar,100% de quienes lo dicen tienen puede_votar=0,SUSTENTADA
+intenté votar tres veces y me rechaza,queja,38,puede_votar,100% de quienes lo dicen tienen puede_votar=0,SUSTENTADA
+moderación bloquea votos de cuentas recién creadas,explica_regla,35,dias_cuenta,los bloqueados tienen mediana 10 dias vs 813,SUSTENTADA
+las cuentas nuevas no pueden votar por seguridad,explica_regla,30,dias_cuenta,los bloqueados tienen mediana 10 dias vs 813,SUSTENTADA
